@@ -1,0 +1,9398 @@
+[
+  {
+    "cid": 98506,
+    "name": "trans-1,2-Dibromocyclohexane",
+    "formula": "C6H10Br2",
+    "molecular_weight": 241.95,
+    "smiles": "Br[C@@H]1CCCC[C@H]1Br",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.17908288444196502
+  },
+  {
+    "cid": 10220423,
+    "name": "Cyclohexane,1,2-dibromo-,trans-",
+    "formula": "C6H10Br2",
+    "molecular_weight": 241.95,
+    "smiles": "Br[C@H]1CCCC[C@@H]1Br",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.17908288444196502
+  },
+  {
+    "cid": 12601463,
+    "name": "trans-1,2-Dibromocyclopentane",
+    "formula": "C5H8Br2",
+    "molecular_weight": 227.92,
+    "smiles": "Br[C@@H]1CCC[C@H]1Br",
+    "heavy_atoms": 7,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.177309786576203
+  },
+  {
+    "cid": 12454484,
+    "name": "rac-(1R,2R)-1,2-dibromocyclobutane",
+    "formula": "C4H6Br2",
+    "molecular_weight": 213.9,
+    "smiles": "Br[C@@H]1CC[C@H]1Br",
+    "heavy_atoms": 6,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.1749456560885203
+  },
+  {
+    "cid": 2772114,
+    "name": "rac-(3R,4R)-3,4-dibromo-1lambda6-thiolane-1,1-dione",
+    "formula": "C4H6Br2O2S",
+    "molecular_weight": 277.96,
+    "smiles": "O=S1(=O)C[C@@H](Br)[C@H](Br)C1",
+    "heavy_atoms": 9,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.16360189959463456
+  },
+  {
+    "cid": 21603635,
+    "name": "(4R,6S,7aR)-4,6-dibromo-5,5-dimethyl-4,6,7,7a-tetrahydro-2H-1-benzofuran",
+    "formula": "C10H14Br2O",
+    "molecular_weight": 310.03,
+    "smiles": "CC1(C)[C@H](Br)C2=CCO[C@@H]2C[C@@H]1Br",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.14469279222474013
+  },
+  {
+    "cid": 54587113,
+    "name": "(2R,3R)-2,3-dibromo-3-methyl-1,1-dioxo-2H-thiochromen-4-one",
+    "formula": "C10H8Br2O3S",
+    "molecular_weight": 368.04,
+    "smiles": "C[C@@]1(Br)C(=O)c2ccccc2S(=O)(=O)[C@@H]1Br",
+    "heavy_atoms": 16,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.1306576575478969
+  },
+  {
+    "cid": 22852808,
+    "name": "rel-(10R,11R)-10,11-Dibromo-10,11-dihydro-5H-dibenzo(a,d)cyclohepten-5-one",
+    "formula": "C15H10Br2O",
+    "molecular_weight": 366.05,
+    "smiles": "O=C1c2ccccc2[C@H](Br)[C@@H](Br)c2ccccc21",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.12911303128384452
+  },
+  {
+    "cid": 6430975,
+    "name": "Butane, 2,3-dibromo-, threo",
+    "formula": "C4H8Br2",
+    "molecular_weight": 215.91,
+    "smiles": "C[C@@H](Br)[C@@H](C)Br",
+    "heavy_atoms": 6,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.11626871250898557
+  },
+  {
+    "cid": 479933,
+    "name": "(4S,6S,8S,9S)-4,8-Dibromo-9-chloro-1,5,5,9-tetramethylspiro[5.5]undec-1-ene",
+    "formula": "C15H23Br2Cl",
+    "molecular_weight": 398.6,
+    "smiles": "CC1=CC[C@H](Br)C(C)(C)[C@]12CC[C@](C)(Cl)[C@@H](Br)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.11473334646877444
+  },
+  {
+    "cid": 14108781,
+    "name": "(4R,6S,9S,10S)-4,10-dibromo-9-chloro-1,5,5,9-tetramethylspiro[5.5]undec-1-ene",
+    "formula": "C15H23Br2Cl",
+    "molecular_weight": 398.6,
+    "smiles": "CC1=CC[C@@H](Br)C(C)(C)[C@]12CC[C@](C)(Cl)[C@@H](Br)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.11473334646877444
+  },
+  {
+    "cid": 162862910,
+    "name": "(4S,6R,9R,10R)-4,10-dibromo-9-chloro-1,5,5,9-tetramethylspiro[5.5]undec-1-ene",
+    "formula": "C15H23Br2Cl",
+    "molecular_weight": 398.6,
+    "smiles": "CC1=CC[C@H](Br)C(C)(C)[C@@]12CC[C@@](C)(Cl)[C@H](Br)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.11473334646877444
+  },
+  {
+    "cid": 14865953,
+    "name": "(2S,6S,8S,9S)-2,8-Dibromo-9-chloro-1,1,9-trimethyl-5-methylidenespiro[5.5]undecane",
+    "formula": "C15H23Br2Cl",
+    "molecular_weight": 398.6,
+    "smiles": "C=C1CC[C@H](Br)C(C)(C)[C@]12CC[C@](C)(Cl)[C@@H](Br)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.11473334646877444
+  },
+  {
+    "cid": 14239683,
+    "name": "(4R,6S,9S,10S)-4,9-dibromo-10-chloro-5,5,9-trimethyl-1-methylidenespiro[5.5]undecane",
+    "formula": "C15H23Br2Cl",
+    "molecular_weight": 398.6,
+    "smiles": "C=C1CC[C@@H](Br)C(C)(C)[C@]12CC[C@](C)(Br)[C@@H](Cl)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.11327697768861021
+  },
+  {
+    "cid": 5326149,
+    "name": "Chamigrenes",
+    "formula": "C15H23Br2Cl",
+    "molecular_weight": 398.6,
+    "smiles": "CC1=CC[C@@H](Br)C(C)(C)[C@]12CC[C@](C)(Br)[C@@H](Cl)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.11327697768861021
+  },
+  {
+    "cid": 21631041,
+    "name": "(1R,2S,4S,5R)-2,4-dibromo-1-chloro-5-[(E)-2-chloroethenyl]-1,5-dimethylcyclohexane",
+    "formula": "C10H14Br2Cl2",
+    "molecular_weight": 364.93,
+    "smiles": "C[C@]1(/C=C/Cl)C[C@@](C)(Cl)[C@@H](Br)C[C@@H]1Br",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.10601209718272923
+  },
+  {
+    "cid": 14805234,
+    "name": "(1S,2R,4R,5S)-1,4-dibromo-5-chloro-2-[(E)-2-chloroethenyl]-1,5-dimethylcyclohexane",
+    "formula": "C10H14Br2Cl2",
+    "molecular_weight": 364.93,
+    "smiles": "C[C@]1(Cl)C[C@](C)(Br)[C@@H](/C=C/Cl)C[C@H]1Br",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.10407143718396289
+  },
+  {
+    "cid": 21637494,
+    "name": "(1R,2S,4S,5R)-1,4-dibromo-5-chloro-2-[(E)-2-chloroethenyl]-1,5-dimethylcyclohexane",
+    "formula": "C10H14Br2Cl2",
+    "molecular_weight": 364.93,
+    "smiles": "C[C@@]1(Cl)C[C@@](C)(Br)[C@H](/C=C/Cl)C[C@@H]1Br",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.10407143718396289
+  },
+  {
+    "cid": 14314398,
+    "name": "Laucapyranoid A",
+    "formula": "C15H23Br2ClO",
+    "molecular_weight": 414.6,
+    "smiles": "CC1=C([C@H]2CC[C@](C)(Cl)[C@@H](Br)C2)C[C@@H](Br)C(C)(C)O1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 13,
+        "cip": "S"
+      },
+      {
+        "atom": 14,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.09018555108378332
+  },
+  {
+    "cid": 3246557,
+    "name": "rel-(2R,3R)-2,3-Dibromobutanedioic acid",
+    "formula": "C4H4Br2O4",
+    "molecular_weight": 275.88,
+    "smiles": "O=C(O)[C@@H](Br)[C@H](Br)C(=O)O",
+    "heavy_atoms": 10,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 0,
+        "cip": "R"
+      },
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07967351769276836
+  },
+  {
+    "cid": 9932176,
+    "name": "[(3aS,6S,7S,7aR)-6,7-dibromo-2,2-dimethyl-5,6,7,7a-tetrahydro-[1,3]dioxolo[4,5-b]pyran-3a-yl]methyl sulfamate",
+    "formula": "C9H15Br2NO6S",
+    "molecular_weight": 425.09,
+    "smiles": "CC1(C)O[C@H]2[C@H](Br)[C@@H](Br)CO[C@@]2(COS(N)(=O)=O)O1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06778465033217135
+  },
+  {
+    "cid": 3246582,
+    "name": "(2R,3S)-2,3-dibromo-3-(2-nitrophenyl)propanoic acid",
+    "formula": "C9H7Br2NO4",
+    "molecular_weight": 352.96,
+    "smiles": "O=C(O)[C@@H](Br)[C@@H](Br)c1ccccc1[N+](=O)[O-]",
+    "heavy_atoms": 16,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06450909988044011
+  },
+  {
+    "cid": 3246518,
+    "name": "(2R,3S)-2,3-dibromo-4-(4-methoxyphenyl)-4-oxobutanoic acid",
+    "formula": "C11H10Br2O4",
+    "molecular_weight": 366.0,
+    "smiles": "COc1ccc(C(=O)[C@H](Br)[C@H](Br)C(=O)O)cc1",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05538409752960398
+  },
+  {
+    "cid": 10220193,
+    "name": "trans-1-Fluoro-2-iodocyclohexane",
+    "formula": "C6H10FI",
+    "molecular_weight": 228.05,
+    "smiles": "F[C@@H]1CCCC[C@H]1I",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.6269389460366545
+  },
+  {
+    "cid": 11402498,
+    "name": "rac-(1R,4R,5R)-4-iodo-6-oxabicyclo(3.2.1)octan-7-one",
+    "formula": "C7H9IO2",
+    "molecular_weight": 252.05,
+    "smiles": "O=C1O[C@@H]2C[C@H]1CC[C@H]2I",
+    "heavy_atoms": 10,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.592656727438372
+  },
+  {
+    "cid": 5288605,
+    "name": "(5S)-5-Iododihydro-2,4(1H,3H)-pyrimidinedione",
+    "formula": "C4H5IN2O2",
+    "molecular_weight": 240.0,
+    "smiles": "O=C1NC[C@H](I)C(=O)N1",
+    "heavy_atoms": 9,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.5913900660690361
+  },
+  {
+    "cid": 11447803,
+    "name": "rac-(1R,2R)-1-iodo-2-methoxycyclohexane",
+    "formula": "C7H13IO",
+    "molecular_weight": 240.08,
+    "smiles": "CO[C@@H]1CCCC[C@H]1I",
+    "heavy_atoms": 9,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.48474595579429186
+  },
+  {
+    "cid": 12475337,
+    "name": "2-Iodobutane, (2S)-",
+    "formula": "C4H9I",
+    "molecular_weight": 184.02,
+    "smiles": "CC[C@H](C)I",
+    "heavy_atoms": 5,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.40703713425525373
+  },
+  {
+    "cid": 44292069,
+    "name": "17-Hydroxy-16-iodo-13-methyl-1,2,6,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-cyclopenta[a]phenanthren-3-one",
+    "formula": "C18H25IO2",
+    "molecular_weight": 400.3,
+    "smiles": "CC12CCC3C4CCC(=O)C=C4CCC3C1C[C@@H](I)C2O",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.40432383902604707
+  },
+  {
+    "cid": 121940,
+    "name": "6-Iodopenicillanic acid",
+    "formula": "C8H10INO3S",
+    "molecular_weight": 327.14,
+    "smiles": "CC1(C)S[C@@H]2[C@H](I)C(=O)N2[C@H]1C(=O)O",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.3876770190487887
+  },
+  {
+    "cid": 127032325,
+    "name": "(5R,7S,8R,9S)-8-hydroxy-9-iodo-7-phenyl-1,6-dioxaspiro[4.4]non-3-en-2-one",
+    "formula": "C13H11IO4",
+    "molecular_weight": 358.13,
+    "smiles": "O=C1C=C[C@]2(O1)O[C@@H](c1ccccc1)[C@@H](O)[C@@H]2I",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.3704942015862642
+  },
+  {
+    "cid": 127032953,
+    "name": "(5R,7S,8R,9R)-8-hydroxy-9-iodo-7-phenyl-1,6-dioxaspiro[4.4]non-3-en-2-one",
+    "formula": "C13H11IO4",
+    "molecular_weight": 358.13,
+    "smiles": "O=C1C=C[C@]2(O1)O[C@@H](c1ccccc1)[C@@H](O)[C@H]2I",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.3704942015862642
+  },
+  {
+    "cid": 127030820,
+    "name": "(5S,7S,8R,9R)-8-hydroxy-9-iodo-7-phenyl-1,6-dioxaspiro[4.4]non-3-en-2-one",
+    "formula": "C13H11IO4",
+    "molecular_weight": 358.13,
+    "smiles": "O=C1C=C[C@@]2(O1)O[C@@H](c1ccccc1)[C@@H](O)[C@H]2I",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.3704942015862642
+  },
+  {
+    "cid": 127032629,
+    "name": "(5S,7R,8R,9R)-8-hydroxy-9-iodo-7-phenyl-1,6-dioxaspiro[4.4]non-3-en-2-one",
+    "formula": "C13H11IO4",
+    "molecular_weight": 358.13,
+    "smiles": "O=C1C=C[C@@]2(O1)O[C@H](c1ccccc1)[C@@H](O)[C@H]2I",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.3704942015862642
+  },
+  {
+    "cid": 127032949,
+    "name": "(5R,7R,8R,9S)-8-hydroxy-9-iodo-7-phenyl-1,6-dioxaspiro[4.4]non-3-en-2-one",
+    "formula": "C13H11IO4",
+    "molecular_weight": 358.13,
+    "smiles": "O=C1C=C[C@]2(O1)O[C@H](c1ccccc1)[C@@H](O)[C@@H]2I",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.3704942015862642
+  },
+  {
+    "cid": 127032950,
+    "name": "(5S,7R,8R,9S)-8-hydroxy-9-iodo-7-phenyl-1,6-dioxaspiro[4.4]non-3-en-2-one",
+    "formula": "C13H11IO4",
+    "molecular_weight": 358.13,
+    "smiles": "O=C1C=C[C@@]2(O1)O[C@H](c1ccccc1)[C@@H](O)[C@@H]2I",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.3704942015862642
+  },
+  {
+    "cid": 135976354,
+    "name": "3-[(3R,4S,5R)-3,4-dihydroxy-5-iodooxolan-2-yl]-2,6-dihydropyrazolo[4,3-d]pyrimidin-7-one",
+    "formula": "C9H9IN4O4",
+    "molecular_weight": 364.1,
+    "smiles": "O=c1[nH]cnc2c(C3O[C@H](I)[C@@H](O)[C@H]3O)[nH]nc12",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 11,
+        "cip": "R"
+      },
+      {
+        "atom": 12,
+        "cip": "S"
+      },
+      {
+        "atom": 13,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.36491686951937413
+  },
+  {
+    "cid": 451454,
+    "name": "Uridine, 2',3'-dideoxy-3'-iodo-",
+    "formula": "C9H11IN2O4",
+    "molecular_weight": 338.1,
+    "smiles": "O=c1ccn([C@H]2C[C@H](I)[C@@H](CO)O2)c(=O)[nH]1",
+    "heavy_atoms": 16,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.32334745278647054
+  },
+  {
+    "cid": 132581129,
+    "name": "(4R,5S)-4-(2,5-dimethylphenyl)-5-[(1R)-1-iodoethyl]oxolan-2-one",
+    "formula": "C14H17IO2",
+    "molecular_weight": 344.19,
+    "smiles": "Cc1ccc(C)c([C@H]2CC(=O)O[C@@H]2[C@@H](C)I)c1",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 13,
+        "cip": "S"
+      },
+      {
+        "atom": 14,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.30866383423232946
+  },
+  {
+    "cid": 132581130,
+    "name": "(4S,5R)-4-(2,5-dimethylphenyl)-5-[(1S)-1-iodoethyl]oxolan-2-one",
+    "formula": "C14H17IO2",
+    "molecular_weight": 344.19,
+    "smiles": "Cc1ccc(C)c([C@@H]2CC(=O)O[C@H]2[C@H](C)I)c1",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 13,
+        "cip": "R"
+      },
+      {
+        "atom": 14,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.30866383423232946
+  },
+  {
+    "cid": 167800,
+    "name": "1-(3'-Iodo-3'-deoxyarabinofuranosyl)uracil",
+    "formula": "C9H11IN2O5",
+    "molecular_weight": 354.1,
+    "smiles": "O=c1ccn([C@@H]2O[C@H](CO)[C@@H](I)[C@@H]2O)c(=O)[nH]1",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.30866383423232946
+  },
+  {
+    "cid": 451455,
+    "name": "3'-Iodo-3'-deoxythymidine",
+    "formula": "C10H13IN2O4",
+    "molecular_weight": 352.13,
+    "smiles": "Cc1cn([C@H]2C[C@H](I)[C@@H](CO)O2)c(=O)[nH]c1=O",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.30866383423232946
+  },
+  {
+    "cid": 5273015,
+    "name": "2-(6-Amino-purin-9-yl)-5-hydroxymethyl-4-iodo-tetrahydro-furan-3-ol",
+    "formula": "C10H12IN5O3",
+    "molecular_weight": 377.14,
+    "smiles": "Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@H](I)[C@H]1O",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.2951700541989635
+  },
+  {
+    "cid": 2774940,
+    "name": "Cis-1-iodo-2-(heptafluoropropyl)cyclohexane",
+    "formula": "C9H10F7I",
+    "molecular_weight": 378.07,
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)[C@H]1CCCC[C@H]1I",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.28275679778597085
+  },
+  {
+    "cid": 45074728,
+    "name": "trans-1-Iodo-2-(heptafluoropropyl)cyclohexane",
+    "formula": "C9H10F7I",
+    "molecular_weight": 378.07,
+    "smiles": "FC(F)(F)C(F)(F)C(F)(F)[C@@H]1CCCC[C@H]1I",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.28275679778597085
+  },
+  {
+    "cid": 451824,
+    "name": "Uridine, 2',3'-dideoxy-5-ethyl-3'-iodo-",
+    "formula": "C11H15IN2O4",
+    "molecular_weight": 366.15,
+    "smiles": "CCc1cn([C@H]2C[C@H](I)[C@@H](CO)O2)c(=O)[nH]c1=O",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 12,
+        "cip": "S"
+      },
+      {
+        "atom": 13,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.255894906896879
+  },
+  {
+    "cid": 44345677,
+    "name": "(5S,6S)-1-[4-fluoro-5-(hydroxymethyl)oxolan-2-yl]-5-iodo-6-methoxy-5-methyl-1,3-diazinane-2,4-dione",
+    "formula": "C11H16FIN2O5",
+    "molecular_weight": 402.16,
+    "smiles": "CO[C@@H]1N(C2CC(F)C(CO)O2)C(=O)NC(=O)[C@@]1(C)I",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.23439075607709306
+  },
+  {
+    "cid": 12280563,
+    "name": "2-Iodooctane, (+)-",
+    "formula": "C8H17I",
+    "molecular_weight": 240.12,
+    "smiles": "CCCCCC[C@H](C)I",
+    "heavy_atoms": 9,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.22833593284518766
+  },
+  {
+    "cid": 44356655,
+    "name": "(5S,6S)-1-[4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-iodo-6-methoxy-5-methyl-1,3-diazinane-2,4-dione",
+    "formula": "C11H16IN5O5",
+    "molecular_weight": 425.18,
+    "smiles": "CO[C@@H]1N(C2CC(N=[N+]=[N-])C(CO)O2)C(=O)NC(=O)[C@@]1(C)I",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.19013829004169003
+  },
+  {
+    "cid": 44357026,
+    "name": "(5R,6R)-1-[4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-iodo-6-methoxy-5-methyl-1,3-diazinane-2,4-dione",
+    "formula": "C11H16IN5O5",
+    "molecular_weight": 425.18,
+    "smiles": "CO[C@H]1N(C2CC(N=[N+]=[N-])C(CO)O2)C(=O)NC(=O)[C@]1(C)I",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.19013829004169003
+  },
+  {
+    "cid": 145984205,
+    "name": "(7R,8aR,10aR)-7-iodo-8,8,10a-trimethyl-3-pentyl-6,7,8a,9-tetrahydro-5H-xanthen-1-ol",
+    "formula": "C21H31IO2",
+    "molecular_weight": 442.4,
+    "smiles": "CCCCCc1cc(O)c2c(c1)O[C@]1(C)CC[C@@H](I)C(C)(C)[C@H]1C2",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      },
+      {
+        "atom": 14,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.18168442743447172
+  },
+  {
+    "cid": 86765313,
+    "name": "(4R,5S)-2,3,5-tribromo-4-(dibromomethyl)-4-hydroxycyclopent-2-en-1-one",
+    "formula": "C6H3Br5O2",
+    "molecular_weight": 506.61,
+    "smiles": "O=C1C(Br)=C(Br)[C@@](O)(C(Br)Br)[C@@H]1Br",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 0,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 3
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.15556102403220604
+  },
+  {
+    "cid": 44424559,
+    "name": "CID 44424559",
+    "formula": "C14H8Br4O4",
+    "molecular_weight": 559.8,
+    "smiles": "O=C1C2(Br)C=C(Br)C([C@H]3[C@]2(Br)C=C(Br)C(=O)[C@]32CO2)[C@@]12CO2",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 17,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 3
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.1084625216370154
+  },
+  {
+    "cid": 10917718,
+    "name": "Mailiohydrin",
+    "formula": "C15H21Br3O2",
+    "molecular_weight": 473.0,
+    "smiles": "C=C1C[C@@H](O)[C@@H](Br)C(C)(C)[C@@]12C=C[C@@](O)(C(Br)Br)CC2",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.09321391239991293
+  },
+  {
+    "cid": 134131968,
+    "name": "(3R,4S,6S,9S)-4-bromo-9-(dibromomethyl)-5,5-dimethyl-1-methylidenespiro[5.5]undec-10-ene-3,9-diol",
+    "formula": "C15H21Br3O2",
+    "molecular_weight": 473.0,
+    "smiles": "C=C1C[C@@H](O)[C@@H](Br)C(C)(C)[C@@]12C=C[C@](O)(C(Br)Br)CC2",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.09321391239991293
+  },
+  {
+    "cid": 642201,
+    "name": "(2S)-1,2-dibromopropane",
+    "formula": "C3H6Br2",
+    "molecular_weight": 201.89,
+    "smiles": "C[C@H](Br)CBr",
+    "heavy_atoms": 5,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.08700302321584812
+  },
+  {
+    "cid": 6560260,
+    "name": "exo-2-Bromonorbornane",
+    "formula": "C7H11Br",
+    "molecular_weight": 175.07,
+    "smiles": "Br[C@H]1C[C@@H]2CC[C@H]1C2",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.08146687169980767
+  },
+  {
+    "cid": 85481,
+    "name": "rel-(1R,2S)-2-Bromocyclohexanol",
+    "formula": "C6H11BrO",
+    "molecular_weight": 179.05,
+    "smiles": "O[C@H]1CCCC[C@H]1Br",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07873831618833085
+  },
+  {
+    "cid": 5325861,
+    "name": "Cyclohexane, 1-bromo-2-fluoro-, trans-",
+    "formula": "C6H10BrF",
+    "molecular_weight": 181.05,
+    "smiles": "F[C@@H]1CCCC[C@H]1Br",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07873831618833085
+  },
+  {
+    "cid": 10866921,
+    "name": "rac-(1R,2R)-2-bromocyclohexan-1-ol",
+    "formula": "C6H11BrO",
+    "molecular_weight": 179.05,
+    "smiles": "O[C@@H]1CCCC[C@H]1Br",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07873831618833085
+  },
+  {
+    "cid": 10192603,
+    "name": "trans-2-Bromocyclohexanol",
+    "formula": "C6H11BrO",
+    "molecular_weight": 179.05,
+    "smiles": "O[C@H]1CCCC[C@@H]1Br",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07873831618833085
+  },
+  {
+    "cid": 21724202,
+    "name": "rac-(1R,2S)-1-bromo-2-methylcyclohexane",
+    "formula": "C7H13Br",
+    "molecular_weight": 177.08,
+    "smiles": "C[C@@H]1CCCC[C@@H]1Br",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07873831618833085
+  },
+  {
+    "cid": 15954526,
+    "name": "4-Amino-1-(2-bromo-2-deoxy-beta-D-arabinofuranosyl)-5-iodopyrimidin-2(1H)-one",
+    "formula": "C9H11BrIN3O4",
+    "molecular_weight": 432.01,
+    "smiles": "Nc1nc(=O)n([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2Br)cc1I",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.07868142569385299
+  },
+  {
+    "cid": 15523739,
+    "name": "rac-(3R,4R)-4-bromooxolan-3-ol",
+    "formula": "C4H7BrO2",
+    "molecular_weight": 167.0,
+    "smiles": "O[C@@H]1COC[C@H]1Br",
+    "heavy_atoms": 7,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07795872889933748
+  },
+  {
+    "cid": 638184,
+    "name": "rac-(1R,2R)-2-bromocycloheptan-1-ol",
+    "formula": "C7H13BrO",
+    "molecular_weight": 193.08,
+    "smiles": "O[C@@H]1CCCCC[C@H]1Br",
+    "heavy_atoms": 9,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07661563524077343
+  },
+  {
+    "cid": 24901102,
+    "name": "(1S,2S)-2-bromo-7-oxa-5-aza-bicyclo[3.2.1]octan-6-one",
+    "formula": "C6H8BrNO2",
+    "molecular_weight": 206.04,
+    "smiles": "O=C1O[C@H]2CN1CC[C@@H]2Br",
+    "heavy_atoms": 10,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.0744327547222687
+  },
+  {
+    "cid": 13637084,
+    "name": "5-Bromo-6-fluoro-cyclooctene",
+    "formula": "C8H12BrF",
+    "molecular_weight": 207.08,
+    "smiles": "F[C@@H]1CC/C=C\\CC[C@H]1Br",
+    "heavy_atoms": 10,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.0744327547222687
+  },
+  {
+    "cid": 154590,
+    "name": "(S)-1,2-Dibromo-3-chloropropane",
+    "formula": "C3H5Br2Cl",
+    "molecular_weight": 236.33,
+    "smiles": "ClC[C@H](Br)CBr",
+    "heavy_atoms": 6,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07371089466898244
+  },
+  {
+    "cid": 641235,
+    "name": "(2S)-2,3-dibromopropan-1-ol",
+    "formula": "C3H6Br2O",
+    "molecular_weight": 217.89,
+    "smiles": "OC[C@H](Br)CBr",
+    "heavy_atoms": 6,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07371089466898244
+  },
+  {
+    "cid": 641250,
+    "name": "(2S)-2,3-dibromopropanal",
+    "formula": "C3H4Br2O",
+    "molecular_weight": 215.87,
+    "smiles": "O=C[C@H](Br)CBr",
+    "heavy_atoms": 6,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 2
+      }
+    ],
+    "screen_score": 0.07371089466898244
+  },
+  {
+    "cid": 154589,
+    "name": "(R)-1,2-Dibromo-3-chloropropane",
+    "formula": "C3H5Br2Cl",
+    "molecular_weight": 236.33,
+    "smiles": "ClC[C@@H](Br)CBr",
+    "heavy_atoms": 6,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07371089466898244
+  },
+  {
+    "cid": 10889025,
+    "name": "rac-(1R,2S,3S,5R)-2-bromo-3-hydroxybicyclo[3.2.0]heptan-6-one",
+    "formula": "C7H9BrO2",
+    "molecular_weight": 205.05,
+    "smiles": "O=C1C[C@@H]2[C@@H](Br)[C@H](O)C[C@H]12",
+    "heavy_atoms": 10,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07239748408533164
+  },
+  {
+    "cid": 820606,
+    "name": "rac-(1R,2S)-2-bromo-2,3-dihydro-1H-inden-1-ol",
+    "formula": "C9H9BrO",
+    "molecular_weight": 213.07,
+    "smiles": "O[C@H]1c2ccccc2C[C@H]1Br",
+    "heavy_atoms": 11,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07222999262508022
+  },
+  {
+    "cid": 820607,
+    "name": "(1R,2R)-2-bromo-2,3-dihydro-1H-inden-1-ol",
+    "formula": "C9H9BrO",
+    "molecular_weight": 213.07,
+    "smiles": "O[C@@H]1c2ccccc2C[C@H]1Br",
+    "heavy_atoms": 11,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07222999262508022
+  },
+  {
+    "cid": 820608,
+    "name": "(1S,2S)-2-Bromo-2,3-dihydro-1H-inden-1-ol",
+    "formula": "C9H9BrO",
+    "molecular_weight": 213.07,
+    "smiles": "O[C@H]1c2ccccc2C[C@@H]1Br",
+    "heavy_atoms": 11,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07222999262508022
+  },
+  {
+    "cid": 68919769,
+    "name": "rac-(3R,4R)-3-bromo-3,4-dihydro-2H-1-benzopyran-4-ol",
+    "formula": "C9H9BrO2",
+    "molecular_weight": 229.07,
+    "smiles": "O[C@H]1c2ccccc2OC[C@@H]1Br",
+    "heavy_atoms": 12,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.07003319842285734
+  },
+  {
+    "cid": 396684,
+    "name": "(2s,3r,6s)-2,8-Dibromo-9-chloro-1,1,9-trimethyl-5-methylidenespiro[5.5]undecan-3-ol",
+    "formula": "C15H23Br2ClO",
+    "molecular_weight": 414.6,
+    "smiles": "C=C1C[C@@H](O)[C@@H](Br)C(C)(C)[C@]12CCC(C)(Cl)C(Br)C2",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 3
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06841307172652947
+  },
+  {
+    "cid": 156247,
+    "name": "Spiro(5.5)undec-3-en-1-one, 4,8-dibromo-9-chloro-2,5,5,9-tetramethyl-, (2R,6S,8R,9R)-rel-(+)-",
+    "formula": "C15H21Br2ClO",
+    "molecular_weight": 412.59,
+    "smiles": "C[C@@H]1C=C(Br)C(C)(C)[C@@]2(CC[C@@](C)(Cl)[C@H](Br)C2)C1=O",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.06841307172652947
+  },
+  {
+    "cid": 16410759,
+    "name": "(4R,6S)-6-Bromo-4-(dibromomethyl)-5,5-dimethylbicyclo[2.1.1]hexane-1-carboxamide",
+    "formula": "C10H14Br3NO",
+    "molecular_weight": 403.94,
+    "smiles": "CC1(C)C2(C(N)=O)CCC1(C(Br)Br)[C@H]2Br",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 3
+      },
+      {
+        "element": "Br",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.06737485045122013
+  },
+  {
+    "cid": 148985199,
+    "name": "(5S,6R)-6-bromo-3-methylidene-1-oxaspiro[4.5]decan-2-one",
+    "formula": "C10H13BrO2",
+    "molecular_weight": 245.11,
+    "smiles": "C=C1C[C@]2(CCCC[C@H]2Br)OC1=O",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06644981772486588
+  },
+  {
+    "cid": 162918615,
+    "name": "(2R,7S,9aS)-7-bromo-2-(bromomethyl)-6,6,9a-trimethyl-3-methylidene-4,5,5a,7,8,9-hexahydrobenzo[b]oxepin-4-ol",
+    "formula": "C15H24Br2O2",
+    "molecular_weight": 396.16,
+    "smiles": "C=C1C(O)CC2C(C)(C)[C@@H](Br)CC[C@]2(C)O[C@H]1CBr",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06576744513659152
+  },
+  {
+    "cid": 512864,
+    "name": "3-Bromocamphor, (+)-",
+    "formula": "C10H15BrO",
+    "molecular_weight": 231.13,
+    "smiles": "CC1(C)[C@@H]2CC[C@@]1(C)C(=O)[C@H]2Br",
+    "heavy_atoms": 12,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06528901401356699
+  },
+  {
+    "cid": 11042578,
+    "name": "[(1S)-endo]-(-)-3-Bromocamphor",
+    "formula": "C10H15BrO",
+    "molecular_weight": 231.13,
+    "smiles": "CC1(C)[C@H]2CC[C@]1(C)C(=O)[C@@H]2Br",
+    "heavy_atoms": 12,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06528901401356699
+  },
+  {
+    "cid": 21603634,
+    "name": "Chondrocole A",
+    "formula": "C10H14BrClO",
+    "molecular_weight": 265.57,
+    "smiles": "CC1(C)[C@@H](Br)C[C@H]2OCC=C2[C@@H]1Cl",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06504027613676266
+  },
+  {
+    "cid": 21603639,
+    "name": "6(S*)-Bromo-1,4(R*)-oxido-2(Z)-ochtoden-8(S*)-ol",
+    "formula": "C10H15BrO2",
+    "molecular_weight": 247.13,
+    "smiles": "CC1(C)[C@@H](Br)C[C@H]2OCC=C2[C@@H]1O",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06504027613676266
+  },
+  {
+    "cid": 21603640,
+    "name": "(3S,6S,7aR)-6-bromo-5,5-dimethyl-3,6,7,7a-tetrahydro-2H-1-benzofuran-3-ol",
+    "formula": "C10H15BrO2",
+    "molecular_weight": 247.13,
+    "smiles": "CC1(C)C=C2[C@H](O)CO[C@@H]2C[C@@H]1Br",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06504027613676266
+  },
+  {
+    "cid": 21603641,
+    "name": "(3R,6S,7aR)-6-bromo-5,5-dimethyl-3,6,7,7a-tetrahydro-2H-1-benzofuran-3-ol",
+    "formula": "C10H15BrO2",
+    "molecular_weight": 247.13,
+    "smiles": "CC1(C)C=C2[C@@H](O)CO[C@@H]2C[C@@H]1Br",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06504027613676266
+  },
+  {
+    "cid": 163017184,
+    "name": "(3S,6R,7aS)-6-bromo-3-chloro-5,5-dimethyl-3,6,7,7a-tetrahydro-2H-1-benzofuran",
+    "formula": "C10H14BrClO",
+    "molecular_weight": 265.57,
+    "smiles": "CC1(C)C=C2[C@H](Cl)CO[C@H]2C[C@H]1Br",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06504027613676266
+  },
+  {
+    "cid": 23426778,
+    "name": "C10H14Br2Cl2",
+    "formula": "C10H14Br2Cl2",
+    "molecular_weight": 364.93,
+    "smiles": "C[C@]1(Cl)C[C@@](C)(/C=C/Br)[C@@H](Br)C[C@H]1Cl",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.06486756881328389
+  },
+  {
+    "cid": 6475605,
+    "name": "(1S,2S,4R,5R)-2-Bromo-1-bromomethyl-1,4-dichloro-5-((E)-2-chloro-vinyl)-5-methyl-cyclohexane",
+    "formula": "C10H13Br2Cl3",
+    "molecular_weight": 399.4,
+    "smiles": "C[C@]1(/C=C/Cl)C[C@](Cl)(CBr)[C@@H](Br)C[C@H]1Cl",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 2
+      }
+    ],
+    "screen_score": 0.06433257711507666
+  },
+  {
+    "cid": 10943437,
+    "name": "rac-[(1R,2S)-2-bromocyclopropyl]benzene",
+    "formula": "C9H9Br",
+    "molecular_weight": 197.07,
+    "smiles": "Br[C@@H]1C[C@H]1c1ccccc1",
+    "heavy_atoms": 10,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06267870931082437
+  },
+  {
+    "cid": 57518772,
+    "name": "Bromochlorofluoromethane, (+)-",
+    "formula": "CHBrClF",
+    "molecular_weight": 147.37,
+    "smiles": "F[C@@H](Cl)Br",
+    "heavy_atoms": 4,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 0,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06236698311946999
+  },
+  {
+    "cid": 445258,
+    "name": "(R)-halothane",
+    "formula": "C2HBrClF3",
+    "molecular_weight": 197.38,
+    "smiles": "FC(F)(F)[C@H](Cl)Br",
+    "heavy_atoms": 7,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 0,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06236698311946999
+  },
+  {
+    "cid": 12522558,
+    "name": "rac-(1R,2R)-1-bromo-2-methoxycyclopentane",
+    "formula": "C6H11BrO",
+    "molecular_weight": 179.05,
+    "smiles": "CO[C@@H]1CCC[C@H]1Br",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06230308252201152
+  },
+  {
+    "cid": 10959327,
+    "name": "(-)-3-(E)-bromomethylidene-10 beta-bromo-beta-chamigrene",
+    "formula": "C15H20Br2",
+    "molecular_weight": 360.13,
+    "smiles": "C=C1CC[C@@H](Br)C(C)(C)[C@@]12C=C/C(=C/Br)CC2",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06220597544006949
+  },
+  {
+    "cid": 11760166,
+    "name": "(4R,6S,9Z)-4-bromo-9-(bromomethylidene)-5,5-dimethyl-1-methylidenespiro[5.5]undec-10-ene",
+    "formula": "C15H20Br2",
+    "molecular_weight": 360.13,
+    "smiles": "C=C1CC[C@@H](Br)C(C)(C)[C@@]12C=C/C(=C\\Br)CC2",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06220597544006949
+  },
+  {
+    "cid": 12460926,
+    "name": "rac-(1R,2R)-1-bromo-2-methoxycyclohexane",
+    "formula": "C7H13BrO",
+    "molecular_weight": 193.08,
+    "smiles": "CO[C@@H]1CCCC[C@H]1Br",
+    "heavy_atoms": 9,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06088005950122307
+  },
+  {
+    "cid": 148422551,
+    "name": "(1R,2S)-1-bromo-3'-methylidenespiro[1,3-dihydroindene-2,5'-oxolane]-2'-one",
+    "formula": "C13H11BrO2",
+    "molecular_weight": 279.13,
+    "smiles": "C=C1C[C@]2(Cc3ccccc3[C@H]2Br)OC1=O",
+    "heavy_atoms": 16,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06054023815135741
+  },
+  {
+    "cid": 44576245,
+    "name": "(3R,4S,6S,9E)-4-bromo-9-(bromomethylidene)-5,5-dimethyl-1-methylidenespiro[5.5]undec-10-en-3-ol",
+    "formula": "C15H20Br2O",
+    "molecular_weight": 376.13,
+    "smiles": "C=C1C[C@@H](O)[C@@H](Br)C(C)(C)[C@@]12C=C/C(=C/Br)CC2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05945023777784004
+  },
+  {
+    "cid": 23425337,
+    "name": "(3R,4S,6S,9Z)-4-bromo-9-(bromomethylidene)-5,5-dimethyl-1-methylidenespiro[5.5]undec-10-en-3-ol",
+    "formula": "C15H20Br2O",
+    "molecular_weight": 376.13,
+    "smiles": "C=C1C[C@@H](O)[C@@H](Br)C(C)(C)[C@@]12C=C/C(=C\\Br)CC2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05945023777784004
+  },
+  {
+    "cid": 5469798,
+    "name": "(3S,4R,6S,9Z)-4-bromo-9-(bromomethylidene)-5,5-dimethyl-1-methylidenespiro[5.5]undec-10-en-3-ol",
+    "formula": "C15H20Br2O",
+    "molecular_weight": 376.13,
+    "smiles": "C=C1C[C@H](O)[C@H](Br)C(C)(C)[C@@]12C=C/C(=C\\Br)CC2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05945023777784004
+  },
+  {
+    "cid": 5469799,
+    "name": "(3S,4R,6S,9E)-4-bromo-9-(bromomethylidene)-5,5-dimethyl-1-methylidenespiro[5.5]undec-10-en-3-ol",
+    "formula": "C15H20Br2O",
+    "molecular_weight": 376.13,
+    "smiles": "C=C1C[C@H](O)[C@H](Br)C(C)(C)[C@@]12C=C/C(=C/Br)CC2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05945023777784004
+  },
+  {
+    "cid": 34179476,
+    "name": "(R)-tert-butyl 3-bromopyrrolidine-1-carboxylate",
+    "formula": "C9H16BrNO2",
+    "molecular_weight": 250.13,
+    "smiles": "CC(C)(C)OC(=O)N1CC[C@@H](Br)C1",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.059402109784349795
+  },
+  {
+    "cid": 34179480,
+    "name": "(S)-tert-butyl 3-bromopyrrolidine-1-carboxylate",
+    "formula": "C9H16BrNO2",
+    "molecular_weight": 250.13,
+    "smiles": "CC(C)(C)OC(=O)N1CC[C@H](Br)C1",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.059402109784349795
+  },
+  {
+    "cid": 21603633,
+    "name": "(4S,6S)-4-bromo-1-[(E)-2-bromoethenyl]-6-chloro-5,5-dimethylcyclohexene",
+    "formula": "C10H13Br2Cl",
+    "molecular_weight": 328.47,
+    "smiles": "CC1(C)[C@@H](Br)CC=C(/C=C/Br)[C@@H]1Cl",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 4
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.059398778142728974
+  },
+  {
+    "cid": 21606564,
+    "name": "(3R,5S,6S,9E)-3-bromo-9-(bromomethylidene)-1,1,5-trimethylspiro[5.5]undec-10-en-5-ol",
+    "formula": "C15H22Br2O",
+    "molecular_weight": 378.14,
+    "smiles": "CC1(C)C[C@@H](Br)C[C@](C)(O)[C@@]12C=C/C(=C/Br)CC2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05893243878331537
+  },
+  {
+    "cid": 13355309,
+    "name": "rac-(1R,2S)-2-bromocyclopropane-1-carboxylic acid",
+    "formula": "C4H5BrO2",
+    "molecular_weight": 164.99,
+    "smiles": "O=C(O)[C@@H]1C[C@H]1Br",
+    "heavy_atoms": 7,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05878854966179548
+  },
+  {
+    "cid": 154717275,
+    "name": "(3S,4R)-4-bromo-3'-methylidenespiro[2,4-dihydro-1H-naphthalene-3,5'-oxolane]-2'-one",
+    "formula": "C14H13BrO2",
+    "molecular_weight": 293.15,
+    "smiles": "C=C1C[C@]2(CCc3ccccc3[C@H]2Br)OC1=O",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05863368210651202
+  },
+  {
+    "cid": 21675021,
+    "name": "(4R,6S)-4-bromo-1,5,5,9-tetramethylspiro[5.5]undeca-1,9-diene",
+    "formula": "C15H23Br",
+    "molecular_weight": 283.25,
+    "smiles": "CC1=CC[C@@]2(CC1)C(C)=CC[C@@H](Br)C2(C)C",
+    "heavy_atoms": 16,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05847804025812383
+  },
+  {
+    "cid": 21774790,
+    "name": "(4S,6R)-4-bromo-5,5,9-trimethyl-1-methylidenespiro[5.5]undec-9-ene",
+    "formula": "C15H23Br",
+    "molecular_weight": 283.25,
+    "smiles": "C=C1CC[C@H](Br)C(C)(C)[C@]12CC=C(C)CC2",
+    "heavy_atoms": 16,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05847804025812383
+  },
+  {
+    "cid": 101933720,
+    "name": "(4S,6R)-4-bromo-1,5,5,9-tetramethylspiro[5.5]undeca-1,9-diene",
+    "formula": "C15H23Br",
+    "molecular_weight": 283.25,
+    "smiles": "CC1=CC[C@]2(CC1)C(C)=CC[C@H](Br)C2(C)C",
+    "heavy_atoms": 16,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05847804025812383
+  },
+  {
+    "cid": 402519,
+    "name": "Rogiolol",
+    "formula": "C15H23Br2ClO",
+    "molecular_weight": 414.6,
+    "smiles": "C=C1C[C@H](O)[C@H](Br)C(C)(C)C12CCC(C)(Cl)C(Br)C2",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.058217111866801195
+  },
+  {
+    "cid": 54115217,
+    "name": "rac-(1R,2R)-2-bromocyclobutyl acetate",
+    "formula": "C6H9BrO2",
+    "molecular_weight": 193.04,
+    "smiles": "CC(=O)O[C@@H]1CC[C@H]1Br",
+    "heavy_atoms": 9,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.057040776469614404
+  },
+  {
+    "cid": 156020788,
+    "name": "(5S,6R)-5-bromo-3'-methylidenespiro[5,7,8,9-tetrahydrobenzo[7]annulene-6,5'-oxolane]-2'-one",
+    "formula": "C15H15BrO2",
+    "molecular_weight": 307.18,
+    "smiles": "C=C1C[C@@]2(CCCc3ccccc3[C@@H]2Br)OC1=O",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 13,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.056767807336472305
+  },
+  {
+    "cid": 154715753,
+    "name": "(5R,6S)-5-bromo-3'-methylidenespiro[5,7,8,9-tetrahydrobenzo[7]annulene-6,5'-oxolane]-2'-one",
+    "formula": "C15H15BrO2",
+    "molecular_weight": 307.18,
+    "smiles": "C=C1C[C@]2(CCCc3ccccc3[C@H]2Br)OC1=O",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 13,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.056767807336472305
+  },
+  {
+    "cid": 11969562,
+    "name": "Chamigrene,4-epoxy-A-",
+    "formula": "C15H23BrO",
+    "molecular_weight": 299.25,
+    "smiles": "CC1=CC[C@@H](Br)C(C)(C)[C@]12CC[C@]1(C)O[C@@H]1C2",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.056759546148769636
+  },
+  {
+    "cid": 130296,
+    "name": "Cymobarbatol",
+    "formula": "C16H20Br2O2",
+    "molecular_weight": 404.14,
+    "smiles": "CC1(C)[C@@H](Br)CC[C@@]2(C)Oc3cc(Br)c(O)cc3C[C@@H]12",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.056356526169365206
+  },
+  {
+    "cid": 147829,
+    "name": "4-Isocymobarbatol",
+    "formula": "C16H20Br2O2",
+    "molecular_weight": 404.14,
+    "smiles": "CC1(C)[C@@H](Br)CC[C@]2(C)Oc3cc(Br)c(O)cc3C[C@@H]12",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.056356526169365206
+  },
+  {
+    "cid": 10262448,
+    "name": "3-Amino-4-bromo-cyclopentanecarboxylic acid",
+    "formula": "C6H10BrNO2",
+    "molecular_weight": 208.05,
+    "smiles": "N[C@H]1C[C@@H](C(=O)O)C[C@@H]1Br",
+    "heavy_atoms": 10,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.0560056908290636
+  },
+  {
+    "cid": 161978962,
+    "name": "(3S,4S)-3-amino-4-bromocyclopentene-1-carboxylic acid",
+    "formula": "C6H8BrNO2",
+    "molecular_weight": 206.04,
+    "smiles": "N[C@H]1C=C(C(=O)O)C[C@@H]1Br",
+    "heavy_atoms": 10,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.0560056908290636
+  },
+  {
+    "cid": 121552779,
+    "name": "rac-(3R,4S)-3-bromo-4-methoxy-1lambda6-thiolane-1,1-dione",
+    "formula": "C5H9BrO3S",
+    "molecular_weight": 229.09,
+    "smiles": "CO[C@@H]1CS(=O)(=O)C[C@H]1Br",
+    "heavy_atoms": 10,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.0560056908290636
+  },
+  {
+    "cid": 157029,
+    "name": "Furo(3,4-b)(1)benzoxepin, 7-bromo-1,3,3a,4a,5,6,7,8,8a,9-decahydro-4a,8,8-trimethyl-, (3aR,4aS,7S,8aS)-",
+    "formula": "C15H23BrO2",
+    "molecular_weight": 315.25,
+    "smiles": "CC1(C)[C@@H](Br)CC[C@]2(C)O[C@H]3COCC3=CC[C@@H]12",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 13,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05591323819377272
+  },
+  {
+    "cid": 10494359,
+    "name": "(3R,4R,6R)-4-bromo-1,5,5,9-tetramethylspiro[5.5]undeca-1,9-dien-3-ol",
+    "formula": "C15H23BrO",
+    "molecular_weight": 299.25,
+    "smiles": "CC1=CC[C@]2(CC1)C(C)=C[C@@H](O)[C@H](Br)C2(C)C",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05582247816989844
+  },
+  {
+    "cid": 24763406,
+    "name": "9-Deoxyelatol",
+    "formula": "C15H22BrCl",
+    "molecular_weight": 317.69,
+    "smiles": "C=C1CC[C@H](Br)C(C)(C)[C@@]12CCC(C)=C(Cl)C2",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05582247816989844
+  },
+  {
+    "cid": 479932,
+    "name": "Deschloroelatol",
+    "formula": "C15H23BrO",
+    "molecular_weight": 299.25,
+    "smiles": "C=C1C[C@H](O)[C@H](Br)C(C)(C)[C@]12CC=C(C)CC2",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05582247816989844
+  },
+  {
+    "cid": 15599842,
+    "name": "(-)-Obtusadiene",
+    "formula": "C15H21BrO",
+    "molecular_weight": 297.23,
+    "smiles": "C=C1C[C@H](O)[C@H](Br)C(C)(C)[C@]12C=CC(C)=CC2",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05582247816989844
+  },
+  {
+    "cid": 396685,
+    "name": "Ma'ilione",
+    "formula": "C14H19BrO2",
+    "molecular_weight": 299.2,
+    "smiles": "C=C1C[C@@H](O)[C@@H](Br)C(C)(C)[C@@]12C=CC(=O)CC2",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05582247816989844
+  },
+  {
+    "cid": 44576246,
+    "name": "(3R,4R,6R)-4-bromo-5,5,9-trimethyl-1-methylidenespiro[5.5]undec-9-en-3-ol",
+    "formula": "C15H23BrO",
+    "molecular_weight": 299.25,
+    "smiles": "C=C1C[C@@H](O)[C@H](Br)C(C)(C)[C@]12CC=C(C)CC2",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05582247816989844
+  },
+  {
+    "cid": 636905,
+    "name": "(3R,4S,6S)-4-bromo-5,5,9-trimethyl-1-methylidenespiro[5.5]undec-9-en-3-ol",
+    "formula": "C15H23BrO",
+    "molecular_weight": 299.25,
+    "smiles": "C=C1C[C@@H](O)[C@@H](Br)C(C)(C)[C@@]12CC=C(C)CC2",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05582247816989844
+  },
+  {
+    "cid": 11688022,
+    "name": "(2R,3R,4R,4aR)-3-bromo-1,4,4a,7-tetramethyl-2,3,4,5,8,9-hexahydrobenzo[7]annulen-2-ol",
+    "formula": "C15H23BrO",
+    "molecular_weight": 299.25,
+    "smiles": "CC1=CC[C@@]2(C)C(=C(C)[C@@H](O)[C@H](Br)[C@@H]2C)CC1",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05582247816989844
+  },
+  {
+    "cid": 23425340,
+    "name": "(4R,6S,9S)-4-bromo-1,5,5,9-tetramethylspiro[5.5]undec-1-en-10-one",
+    "formula": "C15H23BrO",
+    "molecular_weight": 299.25,
+    "smiles": "CC1=CC[C@@H](Br)C(C)(C)[C@]12CC[C@H](C)C(=O)C2",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05582247816989844
+  },
+  {
+    "cid": 163003138,
+    "name": "(3S,4S,6S)-4-bromo-1,5,5,9-tetramethylspiro[5.5]undeca-1,9-dien-3-ol",
+    "formula": "C15H23BrO",
+    "molecular_weight": 299.25,
+    "smiles": "CC1=CC[C@@]2(CC1)C(C)=C[C@H](O)[C@@H](Br)C2(C)C",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05582247816989844
+  },
+  {
+    "cid": 906326,
+    "name": "(6s,10r)-10-Bromo-3,11,11-trimethyl-7-methylidenespiro[5,5]undec-2-en-4-one",
+    "formula": "C15H21BrO",
+    "molecular_weight": 297.23,
+    "smiles": "C=C1CC[C@@H](Br)C(C)(C)[C@]12CC=C(C)C(=O)C2",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05582247816989844
+  },
+  {
+    "cid": 11338427,
+    "name": "[(2R,5aS,7S,9aS)-7-bromo-2-(bromomethyl)-6,6,9a-trimethyl-2,5,5a,7,8,9-hexahydro-1-benzoxepin-3-yl]methanol",
+    "formula": "C15H24Br2O2",
+    "molecular_weight": 396.16,
+    "smiles": "CC1(C)[C@@H](Br)CC[C@]2(C)O[C@@H](CBr)C(CO)=CC[C@@H]12",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05571964101850115
+  },
+  {
+    "cid": 101838115,
+    "name": "(1R,3R,4S,8S)-3-bromo-4-hydroxy-2,2,8-trimethyltricyclo[6.2.2.01,6]dodec-6-en-9-one",
+    "formula": "C15H21BrO2",
+    "molecular_weight": 313.23,
+    "smiles": "CC1(C)[C@@H](Br)[C@@H](O)CC2=C[C@]3(C)CC[C@@]21CC3=O",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.054204099908373556
+  },
+  {
+    "cid": 100219,
+    "name": "Aplysistatin",
+    "formula": "C15H21BrO3",
+    "molecular_weight": 329.23,
+    "smiles": "CC1(C)[C@@H](Br)CC[C@]2(C)O[C@H]3COC(=O)C3=CC[C@@H]12",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05338210078258519
+  },
+  {
+    "cid": 162879231,
+    "name": "(5aR,7S,9aS,10aR)-7-bromo-6,6,9a-trimethyl-5,5a,7,8,9,10a-hexahydro-1H-furo[3,4-b][1]benzoxepin-3-one",
+    "formula": "C15H21BrO3",
+    "molecular_weight": 329.23,
+    "smiles": "CC1(C)[C@H]2CC=C3C(=O)OC[C@@H]3O[C@@]2(C)CC[C@@H]1Br",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05338210078258519
+  },
+  {
+    "cid": 479931,
+    "name": "Elatol",
+    "formula": "C15H22BrClO",
+    "molecular_weight": 333.69,
+    "smiles": "C=C1C[C@H](O)[C@H](Br)C(C)(C)[C@@]12CCC(C)=C(Cl)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.053349530765673975
+  },
+  {
+    "cid": 53308196,
+    "name": "(3R,4S,6S)-4-bromo-10-chloro-5,5,9-trimethyl-1-methylidenespiro[5.5]undec-9-en-3-ol",
+    "formula": "C15H22BrClO",
+    "molecular_weight": 333.69,
+    "smiles": "C=C1C[C@@H](O)[C@@H](Br)C(C)(C)[C@]12CCC(C)=C(Cl)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.053349530765673975
+  },
+  {
+    "cid": 5459201,
+    "name": "Hurgadol",
+    "formula": "C15H24BrClO",
+    "molecular_weight": 335.71,
+    "smiles": "C=C1CC[C@@H](Br)C(C)(C)[C@]12CCC(C)(O)C(Cl)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.053349530765673975
+  },
+  {
+    "cid": 10969077,
+    "name": "Isorigidol",
+    "formula": "C15H23BrO2",
+    "molecular_weight": 315.25,
+    "smiles": "C=C1C[C@H](O)[C@@H](Br)C(C)(C)[C@@]12C=C[C@](C)(O)CC2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.053349530765673975
+  },
+  {
+    "cid": 10829117,
+    "name": "Rigidol",
+    "formula": "C15H23BrO2",
+    "molecular_weight": 315.25,
+    "smiles": "C=C1C[C@H](O)[C@H](Br)C(C)(C)[C@]12C=C[C@@](C)(O)CC2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.053349530765673975
+  },
+  {
+    "cid": 132525080,
+    "name": "(3S,4S,6S,9R)-4-bromo-1,5,5,9-tetramethylspiro[5.5]undeca-1,10-diene-3,9-diol",
+    "formula": "C15H23BrO2",
+    "molecular_weight": 315.25,
+    "smiles": "CC1=C[C@H](O)[C@@H](Br)C(C)(C)[C@@]12C=C[C@](C)(O)CC2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.053349530765673975
+  },
+  {
+    "cid": 132525081,
+    "name": "(3S,4S,6S,10S)-4-bromo-5,5-dimethyl-1,9-dimethylidenespiro[5.5]undecane-3,10-diol",
+    "formula": "C15H23BrO2",
+    "molecular_weight": 315.25,
+    "smiles": "C=C1CC[C@]2(C[C@@H]1O)C(=C)C[C@H](O)[C@@H](Br)C2(C)C",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.053349530765673975
+  },
+  {
+    "cid": 134154583,
+    "name": "(3R,6R,9S,10R)-9-bromo-10-chloro-1,5,5,9-tetramethylspiro[5.5]undec-1-en-3-ol",
+    "formula": "C15H24BrClO",
+    "molecular_weight": 335.71,
+    "smiles": "CC1=C[C@H](O)CC(C)(C)[C@]12CC[C@](C)(Br)[C@H](Cl)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.053349530765673975
+  },
+  {
+    "cid": 12112092,
+    "name": "(3S,4R,6S)-4-bromo-10-chloro-5,5,9-trimethyl-1-methylidenespiro[5.5]undec-9-en-3-ol",
+    "formula": "C15H22BrClO",
+    "molecular_weight": 333.69,
+    "smiles": "C=C1C[C@H](O)[C@H](Br)C(C)(C)[C@]12CCC(C)=C(Cl)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.053349530765673975
+  },
+  {
+    "cid": 14108780,
+    "name": "(6S,9R,10R)-10-bromo-9-chloro-1,5,5,9-tetramethylspiro[5.5]undec-1-en-3-one",
+    "formula": "C15H22BrClO",
+    "molecular_weight": 333.69,
+    "smiles": "CC1=CC(=O)CC(C)(C)[C@@]12CC[C@@](C)(Cl)[C@H](Br)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.053349530765673975
+  },
+  {
+    "cid": 135017695,
+    "name": "(6S,9S,10S)-9-bromo-10-chloro-1,5,5,9-tetramethylspiro[5.5]undec-1-en-3-one",
+    "formula": "C15H22BrClO",
+    "molecular_weight": 333.69,
+    "smiles": "CC1=CC(=O)CC(C)(C)[C@@]12CC[C@](C)(Br)[C@@H](Cl)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.053349530765673975
+  },
+  {
+    "cid": 162865594,
+    "name": "(3R,4S,6S,9R)-4-bromo-5,5,9-trimethyl-1-methylidenespiro[5.5]undec-10-ene-3,9-diol",
+    "formula": "C15H23BrO2",
+    "molecular_weight": 315.25,
+    "smiles": "C=C1C[C@@H](O)[C@@H](Br)C(C)(C)[C@@]12C=C[C@](C)(O)CC2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.053349530765673975
+  },
+  {
+    "cid": 163088369,
+    "name": "(4R,6S,9R,10S)-4-bromo-10-chloro-5,5,9-trimethyl-1-methylidenespiro[5.5]undecan-9-ol",
+    "formula": "C15H24BrClO",
+    "molecular_weight": 335.71,
+    "smiles": "C=C1CC[C@@H](Br)C(C)(C)[C@]12CC[C@@](C)(O)[C@@H](Cl)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.053349530765673975
+  },
+  {
+    "cid": 118987267,
+    "name": "Elatone",
+    "formula": "C15H20BrClO",
+    "molecular_weight": 331.67,
+    "smiles": "C=C1CC(=O)[C@H](Br)C(C)(C)[C@@]12CCC(C)=C(Cl)C2",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.053349530765673975
+  },
+  {
+    "cid": 10632976,
+    "name": "3-Amino-2-bromo-4-fluoro-cyclopentanecarboxylic acid",
+    "formula": "C6H9BrFNO2",
+    "molecular_weight": 226.04,
+    "smiles": "N[C@H]1[C@H](Br)[C@@H](C(=O)O)C[C@@H]1F",
+    "heavy_atoms": 11,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05334718217979337
+  },
+  {
+    "cid": 132606960,
+    "name": "6-dehydroxy-6beta-bromogabosine C",
+    "formula": "C7H9BrO4",
+    "molecular_weight": 237.05,
+    "smiles": "O=C1C(CO)=C[C@@H](O)[C@@H](O)[C@H]1Br",
+    "heavy_atoms": 12,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05221936000858214
+  },
+  {
+    "cid": 132606961,
+    "name": "6-dehydroxy-6alpha-bromogabosine C",
+    "formula": "C7H9BrO4",
+    "molecular_weight": 237.05,
+    "smiles": "O=C1C(CO)=C[C@@H](O)[C@@H](O)[C@@H]1Br",
+    "heavy_atoms": 12,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05221936000858214
+  },
+  {
+    "cid": 44584381,
+    "name": "(2R,3S,5R)-3-bromo-5-[(E,2S)-4-bromo-2-chlorobut-3-en-2-yl]-2-methyloxan-2-ol",
+    "formula": "C10H15Br2ClO2",
+    "molecular_weight": 362.48,
+    "smiles": "C[C@@](Cl)(/C=C/Br)[C@H]1CO[C@@](C)(O)[C@@H](Br)C1",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 3
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05114486846562946
+  },
+  {
+    "cid": 21600015,
+    "name": "(3R,4R,6S)-4-bromo-6-[(E,2R)-4-bromo-2-hydroxybut-3-en-2-yl]-3-methyloxan-3-ol",
+    "formula": "C10H16Br2O3",
+    "molecular_weight": 344.04,
+    "smiles": "C[C@@](O)(/C=C/Br)[C@@H]1C[C@@H](Br)[C@](C)(O)CO1",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.05114486846562946
+  },
+  {
+    "cid": 637147,
+    "name": "2-Bromobutane, (R)-",
+    "formula": "C4H9Br",
+    "molecular_weight": 137.02,
+    "smiles": "CC[C@@H](C)Br",
+    "heavy_atoms": 5,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05112047796677868
+  },
+  {
+    "cid": 12236140,
+    "name": "2-Bromobutane, (S)-",
+    "formula": "C4H9Br",
+    "molecular_weight": 137.02,
+    "smiles": "CC[C@H](C)Br",
+    "heavy_atoms": 5,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05112047796677868
+  },
+  {
+    "cid": 641238,
+    "name": "(2S)-2-bromopropan-1-ol",
+    "formula": "C3H7BrO",
+    "molecular_weight": 138.99,
+    "smiles": "C[C@H](Br)CO",
+    "heavy_atoms": 5,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05112047796677868
+  },
+  {
+    "cid": 12579096,
+    "name": "(2R)-2-bromopropan-1-ol",
+    "formula": "C3H7BrO",
+    "molecular_weight": 138.99,
+    "smiles": "C[C@@H](Br)CO",
+    "heavy_atoms": 5,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05112047796677868
+  },
+  {
+    "cid": 642232,
+    "name": "2-Bromopropionic acid, (S)-",
+    "formula": "C3H5BrO2",
+    "molecular_weight": 152.97,
+    "smiles": "C[C@H](Br)C(=O)O",
+    "heavy_atoms": 6,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05112047796677868
+  },
+  {
+    "cid": 6992152,
+    "name": "(2R)-2-Bromopropanoic acid",
+    "formula": "C3H5BrO2",
+    "molecular_weight": 152.97,
+    "smiles": "C[C@@H](Br)C(=O)O",
+    "heavy_atoms": 6,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05112047796677868
+  },
+  {
+    "cid": 638118,
+    "name": "(3R)-3-bromobutan-2-one",
+    "formula": "C4H7BrO",
+    "molecular_weight": 151.0,
+    "smiles": "CC(=O)[C@@H](C)Br",
+    "heavy_atoms": 6,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05112047796677868
+  },
+  {
+    "cid": 638138,
+    "name": "methyl (2S)-2-bromopropanoate",
+    "formula": "C4H7BrO2",
+    "molecular_weight": 167.0,
+    "smiles": "COC(=O)[C@H](C)Br",
+    "heavy_atoms": 7,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05112047796677868
+  },
+  {
+    "cid": 1715216,
+    "name": "methyl (2R)-2-bromopropanoate",
+    "formula": "C4H7BrO2",
+    "molecular_weight": 167.0,
+    "smiles": "COC(=O)[C@@H](C)Br",
+    "heavy_atoms": 7,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05112047796677868
+  },
+  {
+    "cid": 24971373,
+    "name": "(3S,4R)-3-bromo-4-hydroxy-2,2-dimethyl-2H,3H,4H,5H,10H-naphtho[2,3-b]pyran-5,10-dione",
+    "formula": "C15H13BrO4",
+    "molecular_weight": 337.16,
+    "smiles": "CC1(C)OC2=C(C(=O)c3ccccc3C2=O)[C@@H](O)[C@@H]1Br",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05101764476053331
+  },
+  {
+    "cid": 44462074,
+    "name": "16-Bromo-10,13-dimethyl-1,2,3,6,7,8,9,10,11,12,13,14,15,16-tetradecahydro-cyclopenta[a]phenanthren-17-one",
+    "formula": "C19H27BrO",
+    "molecular_weight": 351.3,
+    "smiles": "CC12CCC3C(CCC4=CCCCC43C)C1C[C@@H](Br)C2=O",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 16,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05077971065758511
+  },
+  {
+    "cid": 44462253,
+    "name": "(16S)-16-bromo-10,13-dimethyl-1,2,3,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-one",
+    "formula": "C19H27BrO",
+    "molecular_weight": 351.3,
+    "smiles": "CC12CCC3C(CCC4=CCCCC43C)C1C[C@H](Br)C2=O",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 16,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05077971065758511
+  },
+  {
+    "cid": 44583723,
+    "name": "4-[(1S,3S,4S)-3-bromo-4-chloro-4-methylcyclohexyl]-2-methylfuran",
+    "formula": "C12H16BrClO",
+    "molecular_weight": 291.61,
+    "smiles": "Cc1cc([C@H]2CC[C@](C)(Cl)[C@@H](Br)C2)co1",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05028203582779182
+  },
+  {
+    "cid": 101277271,
+    "name": "3-[(1S,3R,4R)-4-bromo-3-chloro-4-methylcyclohexyl]-2-methylfuran",
+    "formula": "C12H16BrClO",
+    "molecular_weight": 291.61,
+    "smiles": "Cc1occc1[C@H]1CC[C@@](C)(Br)[C@H](Cl)C1",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.05028203582779182
+  },
+  {
+    "cid": 16409981,
+    "name": "(4R,6S)-6-Bromo-4-(dibromomethyl)-5,5-dimethyl-N-(pyridin-2-YL)bicyclo[2.1.1]hexane-1-carboxamide",
+    "formula": "C15H17Br3N2O",
+    "molecular_weight": 481.0,
+    "smiles": "CC1(C)C2(C(=O)Nc3ccccn3)CCC1(C(Br)Br)[C@H]2Br",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 3
+      },
+      {
+        "element": "Br",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.04986855357293163
+  },
+  {
+    "cid": 101013562,
+    "name": "(1S,2S,4R)-4-bromo-2-chloro-1-[(E)-2-chloroethenyl]-1-methyl-5-methylidenecyclohexane",
+    "formula": "C10H13BrCl2",
+    "molecular_weight": 284.02,
+    "smiles": "C=C1C[C@@](C)(/C=C/Cl)[C@@H](Cl)C[C@H]1Br",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.049845615879059856
+  },
+  {
+    "cid": 12697059,
+    "name": "(R)-2-Bromo-3,3-dimethylbutanoic Acid",
+    "formula": "C6H11BrO2",
+    "molecular_weight": 195.05,
+    "smiles": "CC(C)(C)[C@@H](Br)C(=O)O",
+    "heavy_atoms": 9,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.049362210406397086
+  },
+  {
+    "cid": 65754,
+    "name": "(2S,5R,6R)-6-Bromo-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo(3.2.0)heptane-2-carboxylic acid",
+    "formula": "C8H10BrNO3S",
+    "molecular_weight": 280.14,
+    "smiles": "CC1(C)S[C@@H]2[C@H](Br)C(=O)N2[C@H]1C(=O)O",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04868900855144581
+  },
+  {
+    "cid": 9951097,
+    "name": "(3S,10R,13S,16R)-16-bromo-3-hydroxy-10,13-dimethyl-1,2,3,4,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-one",
+    "formula": "C19H27BrO2",
+    "molecular_weight": 367.3,
+    "smiles": "C[C@]12CC[C@H](O)CC1=CCC1C2CC[C@]2(C)C(=O)[C@H](Br)CC12",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 13,
+        "cip": "S"
+      },
+      {
+        "atom": 16,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.048541095298669214
+  },
+  {
+    "cid": 23425342,
+    "name": "1-[(1S,3R)-3-Bromo-1,2,2-trimethylcyclopentyl]-4-methylbenzene",
+    "formula": "C15H21Br",
+    "molecular_weight": 281.23,
+    "smiles": "Cc1ccc([C@]2(C)CC[C@@H](Br)C2(C)C)cc1",
+    "heavy_atoms": 16,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04793281988370806
+  },
+  {
+    "cid": 12882378,
+    "name": "tert-butyl (2S)-2-bromopropanoate",
+    "formula": "C7H13BrO2",
+    "molecular_weight": 209.08,
+    "smiles": "C[C@H](Br)C(=O)OC(C)(C)C",
+    "heavy_atoms": 10,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04766441772686264
+  },
+  {
+    "cid": 12882377,
+    "name": "tert-Butyl (2R)-2-bromopropanoate",
+    "formula": "C7H13BrO2",
+    "molecular_weight": 209.08,
+    "smiles": "C[C@@H](Br)C(=O)OC(C)(C)C",
+    "heavy_atoms": 10,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04766441772686264
+  },
+  {
+    "cid": 14193707,
+    "name": "(1S,2S,4R,5R)-4-bromo-1,2-dichloro-5-[(E)-2-chloroethenyl]-1,5-dimethylcyclohexane",
+    "formula": "C10H14BrCl3",
+    "molecular_weight": 320.5,
+    "smiles": "C[C@]1(Cl)C[C@](C)(/C=C/Cl)[C@H](Br)C[C@@H]1Cl",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04765307219928739
+  },
+  {
+    "cid": 6475609,
+    "name": "Mertensene",
+    "formula": "C10H14BrCl3",
+    "molecular_weight": 320.5,
+    "smiles": "C[C@]1(/C=C/Cl)C[C@@](C)(Cl)[C@H](Cl)C[C@@H]1Br",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04765307219928739
+  },
+  {
+    "cid": 10710860,
+    "name": "Apakaochtodene B",
+    "formula": "C10H14BrCl3",
+    "molecular_weight": 320.5,
+    "smiles": "CC1(C)[C@@H](Br)C[C@H](Cl)/C(=C\\CCl)[C@@H]1Cl",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04765307219928739
+  },
+  {
+    "cid": 21574552,
+    "name": "(1S,2R,4S,5S)-2-Bromo-4,5-dichloro-1-[(E)-2-chloroethenyl]-1,5-dimethylcyclohexane",
+    "formula": "C10H14BrCl3",
+    "molecular_weight": 320.5,
+    "smiles": "C[C@]1(Cl)C[C@@](C)(/C=C/Cl)[C@H](Br)C[C@@H]1Cl",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04765307219928739
+  },
+  {
+    "cid": 21631049,
+    "name": "Plocamene C",
+    "formula": "C10H14BrCl3",
+    "molecular_weight": 320.5,
+    "smiles": "C[C@@]1(Cl)C[C@@](C)(Br)[C@H](/C=C/Cl)C[C@@H]1Cl",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04765307219928739
+  },
+  {
+    "cid": 6442996,
+    "name": "Coccinene",
+    "formula": "C10H14BrCl3",
+    "molecular_weight": 320.5,
+    "smiles": "C[C@@]1(Cl)C[C@@](C)(/C=C/Cl)[C@@H](Br)C[C@H]1Cl",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04765307219928739
+  },
+  {
+    "cid": 127031450,
+    "name": "(5S,7S,8R,9S)-9-bromo-8-hydroxy-7-phenyl-1,6-dioxaspiro[4.4]non-3-en-2-one",
+    "formula": "C13H11BrO4",
+    "molecular_weight": 311.13,
+    "smiles": "O=C1C=C[C@@]2(O1)O[C@@H](c1ccccc1)[C@@H](O)[C@@H]2Br",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.046530989620059256
+  },
+  {
+    "cid": 11493349,
+    "name": "Luzofuran",
+    "formula": "C15H21BrO2",
+    "molecular_weight": 313.23,
+    "smiles": "CC1(C)[C@@H](Br)CC[C@]2(C)O[C@H](c3ccoc3)C[C@@H]12",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.045830523109649766
+  },
+  {
+    "cid": 46881072,
+    "name": "Furocaespitanelactol",
+    "formula": "C12H16BrClO3",
+    "molecular_weight": 323.61,
+    "smiles": "C[C@]1(O)OC(=O)C=C1[C@@H]1CC[C@@](C)(Cl)[C@H](Br)C1",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 13,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04575612964745774
+  },
+  {
+    "cid": 132525084,
+    "name": "(1S,2S,4S)-2-bromo-3,3,4-trimethyl-4-(4-methylphenyl)cyclopentan-1-ol",
+    "formula": "C15H21BrO",
+    "molecular_weight": 297.23,
+    "smiles": "Cc1ccc([C@]2(C)C[C@H](O)[C@@H](Br)C2(C)C)cc1",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04575612964745774
+  },
+  {
+    "cid": 162967087,
+    "name": "2-[(1R,3S,5R)-3-bromo-2,2,5-trimethylcyclopentyl]-5-methylphenol",
+    "formula": "C15H21BrO",
+    "molecular_weight": 297.23,
+    "smiles": "Cc1ccc([C@H]2[C@H](C)C[C@H](Br)C2(C)C)c(O)c1",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04575612964745774
+  },
+  {
+    "cid": 21587479,
+    "name": "(2S,4R,4aR,8aS)-2-bromo-4,8a-dimethyl-6-propan-2-yl-1,2,3,4,7,8-hexahydronaphthalen-4a-ol",
+    "formula": "C15H25BrO",
+    "molecular_weight": 301.26,
+    "smiles": "CC(C)C1=C[C@]2(O)[C@H](C)C[C@H](Br)C[C@]2(C)CC1",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04498804114018626
+  },
+  {
+    "cid": 56928095,
+    "name": "Spirolaurenone",
+    "formula": "C15H23BrO",
+    "molecular_weight": 299.25,
+    "smiles": "CC(=O)[C@@H]1CC[C@]2(C1)C(C)=CC[C@@H](Br)C2(C)C",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04498804114018626
+  },
+  {
+    "cid": 15954524,
+    "name": "4-Amino-5-bromo-1-(2-bromo-2-deoxy-beta-D-arabinofuranosyl)pyrimidin-2(1H)-one",
+    "formula": "C9H11Br2N3O4",
+    "molecular_weight": 385.01,
+    "smiles": "Nc1nc(=O)n([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2Br)cc1Br",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.04471638273571265
+  },
+  {
+    "cid": 155536749,
+    "name": "(4R,5E,8S,9S)-4-bromo-5-methyl-8-prop-1-en-2-yl-10-oxabicyclo[7.2.1]dodeca-1(12),5-dien-11-one",
+    "formula": "C15H19BrO2",
+    "molecular_weight": 311.21,
+    "smiles": "C=C(C)[C@@H]1C/C=C(\\C)[C@H](Br)CCC2=C[C@@H]1OC2=O",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04442959008883078
+  },
+  {
+    "cid": 11178318,
+    "name": "Anverene",
+    "formula": "C10H15Br3Cl2",
+    "molecular_weight": 445.8,
+    "smiles": "CC(C)(Br)[C@@H](Cl)C[C@H](Br)[C@](C)(Cl)/C=C/Br",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 3
+      },
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04424729690797791
+  },
+  {
+    "cid": 638123,
+    "name": "alpha-Bromobutyric acid, (S)-",
+    "formula": "C4H7BrO2",
+    "molecular_weight": 167.0,
+    "smiles": "CC[C@H](Br)C(=O)O",
+    "heavy_atoms": 7,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04331040494407638
+  },
+  {
+    "cid": 637089,
+    "name": "3S-bromobutanoic acid",
+    "formula": "C4H7BrO2",
+    "molecular_weight": 167.0,
+    "smiles": "C[C@H](Br)CC(=O)O",
+    "heavy_atoms": 7,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04331040494407638
+  },
+  {
+    "cid": 6992738,
+    "name": "alpha-Bromobutyric acid, (R)-",
+    "formula": "C4H7BrO2",
+    "molecular_weight": 167.0,
+    "smiles": "CC[C@@H](Br)C(=O)O",
+    "heavy_atoms": 7,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04331040494407638
+  },
+  {
+    "cid": 13776211,
+    "name": "(2R)-2-bromo-3-hydroxypropanoic acid",
+    "formula": "C3H5BrO3",
+    "molecular_weight": 168.97,
+    "smiles": "O=C(O)[C@H](Br)CO",
+    "heavy_atoms": 7,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04331040494407638
+  },
+  {
+    "cid": 13776210,
+    "name": "(2S)-2-Bromo-3-hydroxypropanoic acid",
+    "formula": "C3H5BrO3",
+    "molecular_weight": 168.97,
+    "smiles": "O=C(O)[C@@H](Br)CO",
+    "heavy_atoms": 7,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04331040494407638
+  },
+  {
+    "cid": 179487,
+    "name": "(2S)-2-Bromo-3-methylbutanoic acid",
+    "formula": "C5H9BrO2",
+    "molecular_weight": 181.03,
+    "smiles": "CC(C)[C@H](Br)C(=O)O",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04331040494407638
+  },
+  {
+    "cid": 6992840,
+    "name": "methyl (2S)-2-bromobutanoate",
+    "formula": "C5H9BrO2",
+    "molecular_weight": 181.03,
+    "smiles": "CC[C@H](Br)C(=O)OC",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04331040494407638
+  },
+  {
+    "cid": 156968,
+    "name": "alpha-Bromoisovaleric acid, (R)-",
+    "formula": "C5H9BrO2",
+    "molecular_weight": 181.03,
+    "smiles": "CC(C)[C@@H](Br)C(=O)O",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04331040494407638
+  },
+  {
+    "cid": 10921164,
+    "name": "(2S,3R)-2-bromo-3-hydroxybutanoic acid",
+    "formula": "C4H7BrO3",
+    "molecular_weight": 183.0,
+    "smiles": "C[C@@H](O)[C@H](Br)C(=O)O",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04331040494407638
+  },
+  {
+    "cid": 10012584,
+    "name": "(2R,3R)-2-Bromo-3-hydroxybutanoic acid",
+    "formula": "C4H7BrO3",
+    "molecular_weight": 183.0,
+    "smiles": "C[C@@H](O)[C@@H](Br)C(=O)O",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04331040494407638
+  },
+  {
+    "cid": 7003709,
+    "name": "ethyl (2R)-2-bromopropanoate",
+    "formula": "C5H9BrO2",
+    "molecular_weight": 181.03,
+    "smiles": "CCOC(=O)[C@@H](C)Br",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 5,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04331040494407638
+  },
+  {
+    "cid": 637131,
+    "name": "ethyl (2S)-2-bromo-2-fluoroacetate",
+    "formula": "C4H6BrFO2",
+    "molecular_weight": 184.99,
+    "smiles": "CCOC(=O)[C@@H](F)Br",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 5,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04331040494407638
+  },
+  {
+    "cid": 6997523,
+    "name": "Ethyl alpha-bromopropionate, (-)-",
+    "formula": "C5H9BrO2",
+    "molecular_weight": 181.03,
+    "smiles": "CCOC(=O)[C@H](C)Br",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 5,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04331040494407638
+  },
+  {
+    "cid": 88153925,
+    "name": "(2R,3S)-2-bromo-3-hydroxybutanoic acid",
+    "formula": "C4H7BrO3",
+    "molecular_weight": 183.0,
+    "smiles": "C[C@H](O)[C@@H](Br)C(=O)O",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04331040494407638
+  },
+  {
+    "cid": 14314417,
+    "name": "Caesspitenone",
+    "formula": "C15H22BrClO2",
+    "molecular_weight": 349.69,
+    "smiles": "CC1(C)C=CC(=O)[C@@](C)([C@H]2CC[C@](C)(Cl)[C@@H](Br)C2)O1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04247426909102053
+  },
+  {
+    "cid": 46881080,
+    "name": "(2S)-2-[(1R,3R,4R)-3-bromo-4-chloro-4-methylcyclohexyl]-2,6,6-trimethylpyran-3-one",
+    "formula": "C15H22BrClO2",
+    "molecular_weight": 349.69,
+    "smiles": "CC1(C)C=CC(=O)[C@](C)([C@@H]2CC[C@@](C)(Cl)[C@H](Br)C2)O1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04247426909102053
+  },
+  {
+    "cid": 132525079,
+    "name": "(3R,4S,6S,9S)-4-bromo-9-(hydroxymethyl)-5,5-dimethyl-1-methylidenespiro[5.5]undec-10-ene-3,9-diol",
+    "formula": "C15H23BrO3",
+    "molecular_weight": 331.24,
+    "smiles": "C=C1C[C@@H](O)[C@@H](Br)C(C)(C)[C@@]12C=C[C@](O)(CO)CC2",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.041833493479733586
+  },
+  {
+    "cid": 134144478,
+    "name": "(3R,6R,9S,10R)-10-bromo-9-methoxy-1,5,5,9-tetramethylspiro[5.5]undec-1-en-3-ol",
+    "formula": "C16H27BrO2",
+    "molecular_weight": 331.29,
+    "smiles": "CO[C@@]1(C)CC[C@]2(C[C@H]1Br)C(C)=C[C@H](O)CC2(C)C",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.041833493479733586
+  },
+  {
+    "cid": 22832757,
+    "name": "Laurenenyne A",
+    "formula": "C15H18Br2O2",
+    "molecular_weight": 390.11,
+    "smiles": "C#C/C=C\\C/C=C1/O[C@H]2C[C@H](C(Br)CC)O[C@H]2[C@@H]1Br",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 2
+      }
+    ],
+    "screen_score": 0.04167992625221256
+  },
+  {
+    "cid": 155548186,
+    "name": "(1R,9S,11R)-9-bromo-4,6-dihydroxy-10,10-dimethyl-13-propan-2-ylidenetetracyclo[7.5.1.01,11.02,7]pentadeca-2(7),3,5-triene-8,15-dione",
+    "formula": "C20H21BrO4",
+    "molecular_weight": 405.3,
+    "smiles": "CC(C)=C1C[C@H]2C(C)(C)[C@@]3(Br)C(=O)c4c(O)cc(O)cc4[C@]2(C1)C3=O",
+    "heavy_atoms": 25,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      },
+      {
+        "atom": 17,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04162314481412069
+  },
+  {
+    "cid": 16682219,
+    "name": "3-Bromo-1,7,7-trimethyl-4-(morpholine-4-carbonyl)-bicyclo[2.2.1]heptan-2-one",
+    "formula": "C15H22BrNO3",
+    "molecular_weight": 344.24,
+    "smiles": "CC12CCC(C(=O)N3CCOCC3)([C@H](Br)C1=O)C2(C)C",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.041229942026173326
+  },
+  {
+    "cid": 16682120,
+    "name": "3-Bromo-1,7,7-trimethyl-4-(piperidine-1-carbonyl)-bicyclo[2.2.1]heptan-2-one",
+    "formula": "C16H24BrNO2",
+    "molecular_weight": 342.27,
+    "smiles": "CC12CCC(C(=O)N3CCCCC3)([C@H](Br)C1=O)C2(C)C",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.041229942026173326
+  },
+  {
+    "cid": 18658643,
+    "name": "1-tert-butyl 2-methyl (2S,4R)-4-bromopyrrolidine-1,2-dicarboxylate",
+    "formula": "C11H18BrNO4",
+    "molecular_weight": 308.17,
+    "smiles": "COC(=O)[C@@H]1C[C@@H](Br)CN1C(=O)OC(C)(C)C",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.041147598603828904
+  },
+  {
+    "cid": 145975203,
+    "name": "(1S,13S,15S,16R)-16-bromo-15-methoxy-5,7-dioxa-12-azapentacyclo[10.6.1.02,10.04,8.013,18]nonadeca-2,4(8),9,17-tetraene",
+    "formula": "C17H18BrNO3",
+    "molecular_weight": 364.2,
+    "smiles": "CO[C@H]1C[C@H]2C(=C[C@H]1Br)[C@H]1CN2Cc2cc3c(cc21)OCO3",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04078425702533426
+  },
+  {
+    "cid": 21587196,
+    "name": "(E)-3-[(1S,3S,4R)-3-bromo-4-hydroxy-4-methylcyclohexyl]but-2-enal",
+    "formula": "C11H17BrO2",
+    "molecular_weight": 261.15,
+    "smiles": "C/C(=C\\C=O)[C@H]1CC[C@@](C)(O)[C@@H](Br)C1",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 5,
+        "cip": "S"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.040372741724396255
+  },
+  {
+    "cid": 11702874,
+    "name": "Acetyldeschloroelatol",
+    "formula": "C17H25BrO2",
+    "molecular_weight": 341.3,
+    "smiles": "C=C1C[C@H](OC(C)=O)[C@H](Br)C(C)(C)[C@]12CC=C(C)CC2",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.0400543428645309
+  },
+  {
+    "cid": 5326339,
+    "name": "[(3S,4S,6R)-4-Bromo-5,5,9-trimethyl-1-methylidenespiro[5.5]undec-9-en-3-yl] acetate",
+    "formula": "C17H25BrO2",
+    "molecular_weight": 341.3,
+    "smiles": "C=C1C[C@H](OC(C)=O)[C@@H](Br)C(C)(C)[C@]12CC=C(C)CC2",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.0400543428645309
+  },
+  {
+    "cid": 11221980,
+    "name": "(9R,10S)-9-bromo-10-hydroxy-5-methoxy-8,8-dimethyl-9,10-dihydropyrano[2,3-f]chromen-2-one",
+    "formula": "C15H15BrO5",
+    "molecular_weight": 355.18,
+    "smiles": "COc1cc2c(c3oc(=O)ccc13)[C@H](O)[C@@H](Br)C(C)(C)O2",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.04000104948543005
+  },
+  {
+    "cid": 50905874,
+    "name": "Bromomethylchlamydosporol B",
+    "formula": "C12H14Br2O5",
+    "molecular_weight": 398.04,
+    "smiles": "COc1c2c(oc(=O)c1Br)[C@](C)(Br)[C@](C)(OC)OC2",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03980929421963977
+  },
+  {
+    "cid": 451830,
+    "name": "Thymidine, 3'-bromo-3'-deoxy-",
+    "formula": "C10H13BrN2O4",
+    "molecular_weight": 305.12,
+    "smiles": "Cc1cn([C@H]2C[C@H](Br)[C@@H](CO)O2)c(=O)[nH]c1=O",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03876560984020726
+  },
+  {
+    "cid": 15954522,
+    "name": "4-amino-1-[(2R,3S,4R,5R)-3-bromo-4-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl]pyrimidin-2-one",
+    "formula": "C9H12BrN3O4",
+    "molecular_weight": 306.11,
+    "smiles": "Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2Br)c(=O)n1",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03876560984020726
+  },
+  {
+    "cid": 21124427,
+    "name": "1-(3'-Bromo-3'-deoxyarabinofuranosyl)uracil",
+    "formula": "C9H11BrN2O5",
+    "molecular_weight": 307.1,
+    "smiles": "O=c1ccn([C@@H]2O[C@H](CO)[C@@H](Br)[C@@H]2O)c(=O)[nH]1",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03876560984020726
+  },
+  {
+    "cid": 6475603,
+    "name": "(E)-(3R,4S,7S)-4,8-Dibromo-3,7-dichloro-3,7-dimethyl-octa-1,5-diene",
+    "formula": "C10H14Br2Cl2",
+    "molecular_weight": 364.93,
+    "smiles": "C=C[C@@](C)(Cl)[C@@H](Br)/C=C/[C@](C)(Cl)CBr",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03874040334623929
+  },
+  {
+    "cid": 6475604,
+    "name": "(3S,4S,5E,7S)-4,8-dibromo-3,7-dichloro-3,7-dimethyl-octa-1,5-diene",
+    "formula": "C10H14Br2Cl2",
+    "molecular_weight": 364.93,
+    "smiles": "C=C[C@](C)(Cl)[C@@H](Br)/C=C/[C@](C)(Cl)CBr",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03874040334623929
+  },
+  {
+    "cid": 21600016,
+    "name": "(3R,4R,6S)-4-bromo-6-[(E,2S)-4-chloro-2-hydroxybut-3-en-2-yl]-3-methyloxan-3-ol",
+    "formula": "C10H16BrClO3",
+    "molecular_weight": 299.59,
+    "smiles": "C[C@](O)(/C=C/Cl)[C@@H]1C[C@@H](Br)[C@](C)(O)CO1",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.038645145573216654
+  },
+  {
+    "cid": 21600017,
+    "name": "(3R,4R,6S)-4-bromo-6-[(E,2R)-4-chloro-2-hydroxybut-3-en-2-yl]-3-methyloxan-3-ol",
+    "formula": "C10H16BrClO3",
+    "molecular_weight": 299.59,
+    "smiles": "C[C@@](O)(/C=C/Cl)[C@@H]1C[C@@H](Br)[C@](C)(O)CO1",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.038645145573216654
+  },
+  {
+    "cid": 11588882,
+    "name": "Acetylelatol",
+    "formula": "C17H24BrClO2",
+    "molecular_weight": 375.7,
+    "smiles": "C=C1C[C@H](OC(C)=O)[C@H](Br)C(C)(C)[C@@]12CCC(C)=C(Cl)C2",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.038379385317101805
+  },
+  {
+    "cid": 15939624,
+    "name": "[(3S,4S,6R)-4-bromo-10-chloro-5,5,9-trimethyl-1-methylidenespiro[5.5]undec-9-en-3-yl] acetate",
+    "formula": "C17H24BrClO2",
+    "molecular_weight": 375.7,
+    "smiles": "C=C1C[C@H](OC(C)=O)[C@@H](Br)C(C)(C)[C@@]12CCC(C)=C(Cl)C2",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.038379385317101805
+  },
+  {
+    "cid": 9816009,
+    "name": "(2S)-2-bromo-3-phenylpropanoic acid",
+    "formula": "C9H9BrO2",
+    "molecular_weight": 229.07,
+    "smiles": "O=C(O)[C@@H](Br)Cc1ccccc1",
+    "heavy_atoms": 12,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03837808386172904
+  },
+  {
+    "cid": 53316793,
+    "name": "(3S,4R)-4-azido-3-bromo-2,2-dimethyl-3,4,4a,10a-tetrahydrobenzo[g]chromene-5,10-dione",
+    "formula": "C15H14BrN3O3",
+    "molecular_weight": 364.19,
+    "smiles": "CC1(C)OC2C(=O)c3ccccc3C(=O)C2[C@@H](N=[N+]=[N-])[C@@H]1Br",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.0382930720412388
+  },
+  {
+    "cid": 134151954,
+    "name": "(3S)-4-azido-3-bromo-2,2-dimethyl-3,4-dihydrobenzo[h]chromene-5,6-dione",
+    "formula": "C15H12BrN3O3",
+    "molecular_weight": 362.18,
+    "smiles": "CC1(C)OC2=C(C(=O)C(=O)c3ccccc32)C(N=[N+]=[N-])[C@@H]1Br",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.0382930720412388
+  },
+  {
+    "cid": 11098963,
+    "name": "((1S,3R,4R,7S)-3-Bromo-1,7-dimethyl-2-oxobicyclo[2.2.1]heptan-7-yl)methanesulfonic acid",
+    "formula": "C10H15BrO4S",
+    "molecular_weight": 311.19,
+    "smiles": "C[C@]1(CS(=O)(=O)O)[C@H]2CC[C@]1(C)C(=O)[C@@H]2Br",
+    "heavy_atoms": 16,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03774558643865045
+  },
+  {
+    "cid": 11095044,
+    "name": "(S)-2-Bromobutane-1,4-diol",
+    "formula": "C4H9BrO2",
+    "molecular_weight": 169.02,
+    "smiles": "OCC[C@H](Br)CO",
+    "heavy_atoms": 7,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03757047175871686
+  },
+  {
+    "cid": 24884210,
+    "name": "(s)-2-Bromohexane",
+    "formula": "C6H13Br",
+    "molecular_weight": 165.07,
+    "smiles": "CCCC[C@H](C)Br",
+    "heavy_atoms": 7,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03757047175871686
+  },
+  {
+    "cid": 641255,
+    "name": "(2S)-2-bromopentanoic acid",
+    "formula": "C5H9BrO2",
+    "molecular_weight": 181.03,
+    "smiles": "CCC[C@H](Br)C(=O)O",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03757047175871686
+  },
+  {
+    "cid": 6992159,
+    "name": "Pentanoic acid, 2-bromo-, (R)-",
+    "formula": "C5H9BrO2",
+    "molecular_weight": 181.03,
+    "smiles": "CCC[C@@H](Br)C(=O)O",
+    "heavy_atoms": 8,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03757047175871686
+  },
+  {
+    "cid": 3246171,
+    "name": "(2S)-2-bromo-1-(9-bromo-3-phenanthryl)propan-1-one",
+    "formula": "C17H12Br2O",
+    "molecular_weight": 392.1,
+    "smiles": "C[C@H](Br)C(=O)c1ccc2cc(Br)c3ccccc3c2c1",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 8
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03716773710869519
+  },
+  {
+    "cid": 145952245,
+    "name": "(3S,5R,8R)-8-bromo-12,15-dihydroxy-13-methoxy-5-methyl-9-methylidene-4-oxatricyclo[9.4.0.03,5]pentadeca-1(11),12,14-trien-2-one",
+    "formula": "C17H19BrO5",
+    "molecular_weight": 383.2,
+    "smiles": "C=C1Cc2c(O)c(OC)cc(O)c2C(=O)[C@H]2O[C@]2(C)CC[C@H]1Br",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 20,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03714333701779908
+  },
+  {
+    "cid": 5273016,
+    "name": "2-(6-Amino-purin-9-yl)-4-bromo-5-hydroxymethyl-tetrahydro-furan-3-ol",
+    "formula": "C10H12BrN5O3",
+    "molecular_weight": 330.14,
+    "smiles": "Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@H](Br)[C@H]1O",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.037070903321239725
+  },
+  {
+    "cid": 15954529,
+    "name": "1-(2-Bromo-2-deoxy-beta-D-arabinofuranosyl)-5-methylpyrimidine-2,4(1H,3H)-dione",
+    "formula": "C10H13BrN2O5",
+    "molecular_weight": 321.12,
+    "smiles": "Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2Br)c(=O)[nH]c1=O",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.037048285253940265
+  },
+  {
+    "cid": 118468989,
+    "name": "4-amino-1-[(2R,3S,4R,5R)-3-bromo-3-fluoro-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one",
+    "formula": "C9H11BrFN3O4",
+    "molecular_weight": 324.1,
+    "smiles": "Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@]2(F)Br)c(=O)n1",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.037048285253940265
+  },
+  {
+    "cid": 140771928,
+    "name": "4-amino-1-[(2R,3R,4R,5R)-3-bromo-3-fluoro-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one",
+    "formula": "C9H11BrFN3O4",
+    "molecular_weight": 324.1,
+    "smiles": "Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@@]2(F)Br)c(=O)n1",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.037048285253940265
+  },
+  {
+    "cid": 44626955,
+    "name": "(5R)-4-[(1R,3R,4R)-3-bromo-4-chloro-4-methylcyclohexyl]-5-methoxy-5-methylfuran-2-one",
+    "formula": "C13H18BrClO3",
+    "molecular_weight": 337.64,
+    "smiles": "CO[C@]1(C)OC(=O)C=C1[C@@H]1CC[C@@](C)(Cl)[C@H](Br)C1",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 13,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.037048285253940265
+  },
+  {
+    "cid": 44626956,
+    "name": "(5S)-4-[(1R,3R,4R)-3-bromo-4-chloro-4-methylcyclohexyl]-5-methoxy-5-methylfuran-2-one",
+    "formula": "C13H18BrClO3",
+    "molecular_weight": 337.64,
+    "smiles": "CO[C@@]1(C)OC(=O)C=C1[C@@H]1CC[C@@](C)(Cl)[C@H](Br)C1",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 13,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.037048285253940265
+  },
+  {
+    "cid": 15954527,
+    "name": "4-Amino-1-(2-bromo-2-deoxy-beta-D-arabinofuranosyl)-5-methylpyrimidin-2(1H)-one",
+    "formula": "C10H14BrN3O4",
+    "molecular_weight": 320.14,
+    "smiles": "Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2Br)c(=O)nc1N",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.037048285253940265
+  },
+  {
+    "cid": 126618115,
+    "name": "1-[(2R,3R,4R,5R)-3-bromo-3-fluoro-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidine-2,4-dione",
+    "formula": "C9H10BrFN2O5",
+    "molecular_weight": 325.09,
+    "smiles": "O=c1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@@]2(F)Br)c(=O)[nH]1",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.037048285253940265
+  },
+  {
+    "cid": 139037645,
+    "name": "10S*-O-methyl-furocaespitanelactol",
+    "formula": "C13H18BrClO3",
+    "molecular_weight": 337.64,
+    "smiles": "CO[C@]1(C)OC(=O)C=C1[C@H]1CC[C@](C)(Cl)[C@@H](Br)C1",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 13,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.037048285253940265
+  },
+  {
+    "cid": 14483918,
+    "name": "Cyclocymopol",
+    "formula": "C16H20Br2O2",
+    "molecular_weight": 404.14,
+    "smiles": "C=C1CC[C@@H](Br)C(C)(C)[C@H]1Cc1cc(O)c(Br)cc1O",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 6
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03693861041695642
+  },
+  {
+    "cid": 11639790,
+    "name": "(3Z)-3-[(3aS,5S,7aS)-5-bromo-4,4,7a-trimethyl-3a,5,6,7-tetrahydro-3H-1-benzofuran-2-ylidene]-1-bromobutan-2-one",
+    "formula": "C15H22Br2O2",
+    "molecular_weight": 394.14,
+    "smiles": "C/C(C(=O)CBr)=C1\\C[C@H]2C(C)(C)[C@@H](Br)CC[C@]2(C)O1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.036856629758194245
+  },
+  {
+    "cid": 484446,
+    "name": "(4aS,10R,10aS)-10-bromo-7-hydroxy-8-isopropyl-1,1,4a-trimethyl-3,4,10,10a-tetrahydro-2H-phenanthren-9-one",
+    "formula": "C20H27BrO2",
+    "molecular_weight": 379.3,
+    "smiles": "CC(C)c1c(O)ccc2c1C(=O)[C@H](Br)[C@H]1C(C)(C)CCC[C@]21C",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 11,
+        "cip": "R"
+      },
+      {
+        "atom": 12,
+        "cip": "S"
+      },
+      {
+        "atom": 13,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03668315408129538
+  },
+  {
+    "cid": 154352,
+    "name": "(S)-2-Bromo-N-benzylpropanamide",
+    "formula": "C10H12BrNO",
+    "molecular_weight": 242.11,
+    "smiles": "C[C@H](Br)C(=O)NCc1ccccc1",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03663352492316447
+  },
+  {
+    "cid": 50905873,
+    "name": "Bromomethylchlamydosporol A",
+    "formula": "C12H15BrO5",
+    "molecular_weight": 319.15,
+    "smiles": "COc1cc(=O)oc2c1CO[C@@](C)(OC)[C@@]2(C)Br",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03645483446039888
+  },
+  {
+    "cid": 2757181,
+    "name": "Bromosuccinic acid, (-)-",
+    "formula": "C4H5BrO4",
+    "molecular_weight": 196.98,
+    "smiles": "O=C(O)C[C@H](Br)C(=O)O",
+    "heavy_atoms": 9,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03627825102156894
+  },
+  {
+    "cid": 6995506,
+    "name": "(2R)-2-bromobutanedioic acid",
+    "formula": "C4H5BrO4",
+    "molecular_weight": 196.98,
+    "smiles": "O=C(O)C[C@@H](Br)C(=O)O",
+    "heavy_atoms": 9,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03627825102156894
+  },
+  {
+    "cid": 12697060,
+    "name": "(2R)-2-bromo-4-methylpentanoic acid",
+    "formula": "C6H11BrO2",
+    "molecular_weight": 195.05,
+    "smiles": "CC(C)C[C@@H](Br)C(=O)O",
+    "heavy_atoms": 9,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03627825102156894
+  },
+  {
+    "cid": 102025637,
+    "name": "[4-[(1S,4S)-4-bromo-3,3-dimethylcyclohexyl]cyclohexa-1,3-dien-1-yl] acetate",
+    "formula": "C16H23BrO2",
+    "molecular_weight": 327.26,
+    "smiles": "CC(=O)OC1=CC=C([C@H]2CC[C@H](Br)C(C)(C)C2)CC1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 13,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03598514464655906
+  },
+  {
+    "cid": 21575362,
+    "name": "(2Z,3aS,5R,6S,7aS)-6-bromo-2-[(Z)-1-bromohex-3-en-5-ynylidene]-5-ethyl-3,3a,5,6,7,7a-hexahydrofuro[3,2-b]pyran",
+    "formula": "C15H18Br2O2",
+    "molecular_weight": 390.11,
+    "smiles": "C#C/C=C\\C/C(Br)=C1\\C[C@@H]2O[C@H](CC)[C@@H](Br)C[C@@H]2O1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 4
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.035515174061629566
+  },
+  {
+    "cid": 49842670,
+    "name": "(4S,6R,12E)-6-bromo-18-hydroxy-16-methoxy-4-methyl-3-oxabicyclo[12.4.0]octadeca-1(14),12,15,17-tetraene-2,8-dione",
+    "formula": "C19H23BrO5",
+    "molecular_weight": 411.3,
+    "smiles": "COc1cc(O)c2c(c1)/C=C/CCCC(=O)C[C@H](Br)C[C@H](C)OC2=O",
+    "heavy_atoms": 25,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03530156977867438
+  },
+  {
+    "cid": 53316977,
+    "name": "(4S,6R)-6-bromo-18-hydroxy-16-methoxy-4-methyl-3-oxabicyclo[12.4.0]octadeca-1(14),15,17-triene-2,8-dione",
+    "formula": "C19H25BrO5",
+    "molecular_weight": 413.3,
+    "smiles": "COc1cc(O)c2c(c1)CCCCCC(=O)C[C@H](Br)C[C@H](C)OC2=O",
+    "heavy_atoms": 25,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03530156977867438
+  },
+  {
+    "cid": 53320915,
+    "name": "(4S,6R,12Z)-6-bromo-18-hydroxy-16-methoxy-4-methyl-3-oxabicyclo[12.4.0]octadeca-1(14),12,15,17-tetraene-2,8-dione",
+    "formula": "C19H23BrO5",
+    "molecular_weight": 411.3,
+    "smiles": "COc1cc(O)c2c(c1)/C=C\\CCCC(=O)C[C@H](Br)C[C@H](C)OC2=O",
+    "heavy_atoms": 25,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03530156977867438
+  },
+  {
+    "cid": 10656109,
+    "name": "(2S)-2-bromo-4-methoxy-4-oxobutanoic acid",
+    "formula": "C5H7BrO4",
+    "molecular_weight": 211.01,
+    "smiles": "COC(=O)C[C@H](Br)C(=O)O",
+    "heavy_atoms": 10,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 5,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.035030475678778566
+  },
+  {
+    "cid": 6442823,
+    "name": "Kumepaloxane",
+    "formula": "C12H20BrClO",
+    "molecular_weight": 295.64,
+    "smiles": "C[C@H]1CC[C@](C)([C@@H](C)Br)O[C@H]1C/C=C/Cl",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03352349977435661
+  },
+  {
+    "cid": 16682168,
+    "name": "2-Bromo-4,7,7-trimethyl-3-oxo-bicyclo[2.2.1]heptane-1-carboxylic acid cyclohexylamide",
+    "formula": "C17H26BrNO2",
+    "molecular_weight": 356.3,
+    "smiles": "CC12CCC(C(=O)NC3CCCCC3)([C@H](Br)C1=O)C2(C)C",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03343180806280406
+  },
+  {
+    "cid": 162646778,
+    "name": "(2R,3S)-3-bromo-2-(2-fluorophenyl)-3-nitro-2H-chromen-4-one",
+    "formula": "C15H9BrFNO4",
+    "molecular_weight": 366.14,
+    "smiles": "O=C1c2ccccc2O[C@H](c2ccccc2F)[C@@]1(Br)[N+](=O)[O-]",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.033286976501770774
+  },
+  {
+    "cid": 21630855,
+    "name": "(1E,3R,4S,5E)-1,4,8-tribromo-3,7-dichloro-3,7-dimethylocta-1,5-diene",
+    "formula": "C10H13Br3Cl2",
+    "molecular_weight": 443.8,
+    "smiles": "CC(Cl)(/C=C/[C@H](Br)[C@](C)(Cl)/C=C/Br)CBr",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 3
+      },
+      {
+        "element": "Br",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.033185988611111196
+  },
+  {
+    "cid": 16682109,
+    "name": "2-Bromo-4,7,7-trimethyl-3-oxo-bicyclo[2.2.1]heptane-1-carboxylic acid p-tolylamide",
+    "formula": "C18H22BrNO2",
+    "molecular_weight": 364.3,
+    "smiles": "Cc1ccc(NC(=O)C23CCC(C)(C(=O)[C@H]2Br)C3(C)C)cc1",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 19,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03202062413485559
+  },
+  {
+    "cid": 16682110,
+    "name": "2-Bromo-4,7,7-trimethyl-3-oxo-bicyclo[2.2.1]heptane-1-carboxylic acid (2-chloro-phenyl)-amide",
+    "formula": "C17H19BrClNO2",
+    "molecular_weight": 384.7,
+    "smiles": "CC12CCC(C(=O)Nc3ccccc3Cl)([C@H](Br)C1=O)C2(C)C",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03202062413485559
+  },
+  {
+    "cid": 16682218,
+    "name": "(2S)-2-Bromo-N-(4-chlorophenyl)-4,7,7-trimethyl-3-oxobicyclo[2.2.1]heptane-1-carboxamide",
+    "formula": "C17H19BrClNO2",
+    "molecular_weight": 384.7,
+    "smiles": "CC12CCC(C(=O)Nc3ccc(Cl)cc3)([C@H](Br)C1=O)C2(C)C",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03202062413485559
+  },
+  {
+    "cid": 16760149,
+    "name": "trans(+)-Bromuconazole",
+    "formula": "C13H12BrCl2N3O",
+    "molecular_weight": 377.1,
+    "smiles": "Clc1ccc([C@]2(Cn3cncn3)C[C@H](Br)CO2)c(Cl)c1",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03159751550466088
+  },
+  {
+    "cid": 16760154,
+    "name": "trans(-)-Bromuconazole",
+    "formula": "C13H12BrCl2N3O",
+    "molecular_weight": 377.1,
+    "smiles": "Clc1ccc([C@@]2(Cn3cncn3)C[C@@H](Br)CO2)c(Cl)c1",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03159751550466088
+  },
+  {
+    "cid": 16760158,
+    "name": "cis(-)-Bromuconazole",
+    "formula": "C13H12BrCl2N3O",
+    "molecular_weight": 377.1,
+    "smiles": "Clc1ccc([C@@]2(Cn3cncn3)C[C@H](Br)CO2)c(Cl)c1",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03159751550466088
+  },
+  {
+    "cid": 11002075,
+    "name": "Obtusenyne",
+    "formula": "C15H20BrClO",
+    "molecular_weight": 331.67,
+    "smiles": "C#C/C=C\\C[C@@H]1O[C@@H](CC)[C@@H](Br)C/C=C\\C[C@@H]1Cl",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03110867016884024
+  },
+  {
+    "cid": 21771241,
+    "name": "(2S,3R,5Z,8S,9S)-3-bromo-8-chloro-2-ethyl-9-[(E)-pent-2-en-4-ynyl]-2,3,4,7,8,9-hexahydrooxonine",
+    "formula": "C15H20BrClO",
+    "molecular_weight": 331.67,
+    "smiles": "C#C/C=C/C[C@@H]1O[C@@H](CC)[C@H](Br)C/C=C\\C[C@@H]1Cl",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.03110867016884024
+  },
+  {
+    "cid": 44308254,
+    "name": "(4aS,7aR)-4a-bromo-3-(cyclopropylmethyl)-9-hydroxy-2,4,7a,13-tetrahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",
+    "formula": "C20H20BrNO3",
+    "molecular_weight": 402.3,
+    "smiles": "O=C1C=C[C@@]2(Br)C3Cc4ccc(O)c5c4C2(CCN3CC2CC2)[C@H]1O5",
+    "heavy_atoms": 25,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 13,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.030911587115169985
+  },
+  {
+    "cid": 49863117,
+    "name": "Ceratinadin C",
+    "formula": "C14H15Br2N5O4",
+    "molecular_weight": 477.11,
+    "smiles": "Nc1ncc(CCNC(=O)C2=NO[C@]3(C=C(Br)C(=O)[C@@H](Br)[C@@H]3O)C2)[nH]1",
+    "heavy_atoms": 25,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.030699947376189637
+  },
+  {
+    "cid": 16682217,
+    "name": "(2S)-2-bromo-N-(2,3-dichlorophenyl)-3-keto-4,7,7-trimethyl-norbornane-1-carboxamide",
+    "formula": "C17H18BrCl2NO2",
+    "molecular_weight": 419.1,
+    "smiles": "CC12CCC(C(=O)Nc3cccc(Cl)c3Cl)([C@H](Br)C1=O)C2(C)C",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.030688906108781836
+  },
+  {
+    "cid": 10432143,
+    "name": "5-Bromo-2-[[(1S,3R)-3-bromo-2,2-dimethyl-6-methylidenecyclohexyl]methyl]-4-methoxyphenol",
+    "formula": "C17H22Br2O2",
+    "molecular_weight": 418.2,
+    "smiles": "C=C1CC[C@@H](Br)C(C)(C)[C@H]1Cc1cc(OC)c(Br)cc1O",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 6
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.030685310819996075
+  },
+  {
+    "cid": 9979395,
+    "name": "5-Bromo-2-((1R,3R)-3-bromo-2,2-dimethyl-6-methylene-cyclohexylmethyl)-4-methoxy-phenol",
+    "formula": "C17H22Br2O2",
+    "molecular_weight": 418.2,
+    "smiles": "C=C1CC[C@@H](Br)C(C)(C)[C@@H]1Cc1cc(OC)c(Br)cc1O",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 6
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.030685310819996075
+  },
+  {
+    "cid": 16682108,
+    "name": "2-Bromo-4,7,7-trimethyl-3-oxo-bicyclo[2.2.1]heptane-1-carboxylic acid allylamide",
+    "formula": "C14H20BrNO2",
+    "molecular_weight": 314.22,
+    "smiles": "C=CCNC(=O)C12CCC(C)(C(=O)[C@H]1Br)C2(C)C",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.030079068792093756
+  },
+  {
+    "cid": 25146751,
+    "name": "[4-[(1S,4S)-4-bromo-3,3-dimethylcyclohexyl]phenyl]methyl acetate",
+    "formula": "C17H23BrO2",
+    "molecular_weight": 339.3,
+    "smiles": "CC(=O)OCc1ccc([C@H]2CC[C@H](Br)C(C)(C)C2)cc1",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 11,
+        "cip": "S"
+      },
+      {
+        "atom": 14,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02986952637549974
+  },
+  {
+    "cid": 25146752,
+    "name": "[4-[(1S,4S)-4-bromo-3,3-dimethylcyclohexyl]cyclohexa-1,3-dien-1-yl]methyl acetate",
+    "formula": "C17H25BrO2",
+    "molecular_weight": 341.3,
+    "smiles": "CC(=O)OCC1=CC=C([C@H]2CC[C@H](Br)C(C)(C)C2)CC1",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 11,
+        "cip": "S"
+      },
+      {
+        "atom": 14,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02986952637549974
+  },
+  {
+    "cid": 11486308,
+    "name": "[(9R,10S)-9-bromo-5-methoxy-8,8-dimethyl-2-oxo-9,10-dihydropyrano[2,3-f]chromen-10-yl] acetate",
+    "formula": "C17H17BrO6",
+    "molecular_weight": 397.2,
+    "smiles": "COc1cc2c(c3oc(=O)ccc13)[C@H](OC(C)=O)[C@@H](Br)C(C)(C)O2",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02979023543505199
+  },
+  {
+    "cid": 24878876,
+    "name": "3-[[(2S)-2-bromopropanoyl]amino]-N-carbamoylbenzamide",
+    "formula": "C11H12BrN3O3",
+    "molecular_weight": 314.14,
+    "smiles": "C[C@H](Br)C(=O)Nc1cccc(C(=O)NC(N)=O)c1",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02956426810372051
+  },
+  {
+    "cid": 24878986,
+    "name": "3-[[(2R)-2-bromopropanoyl]amino]-N-carbamoylbenzamide",
+    "formula": "C11H12BrN3O3",
+    "molecular_weight": 314.14,
+    "smiles": "C[C@@H](Br)C(=O)Nc1cccc(C(=O)NC(N)=O)c1",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02956426810372051
+  },
+  {
+    "cid": 44345308,
+    "name": "(5R,6R)-5-bromo-1-[4-fluoro-5-(hydroxymethyl)oxolan-2-yl]-6-methoxy-5-methyl-1,3-diazinane-2,4-dione",
+    "formula": "C11H16BrFN2O5",
+    "molecular_weight": 355.16,
+    "smiles": "CO[C@H]1N(C2CC(F)C(CO)O2)C(=O)NC(=O)[C@]1(C)Br",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02943752909320945
+  },
+  {
+    "cid": 44345347,
+    "name": "(5S,6S)-5-bromo-1-[4-fluoro-5-(hydroxymethyl)oxolan-2-yl]-6-methoxy-5-methyl-1,3-diazinane-2,4-dione",
+    "formula": "C11H16BrFN2O5",
+    "molecular_weight": 355.16,
+    "smiles": "CO[C@@H]1N(C2CC(F)C(CO)O2)C(=O)NC(=O)[C@@]1(C)Br",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02943752909320945
+  },
+  {
+    "cid": 12216025,
+    "name": "sec-Octyl bromide, (+)-",
+    "formula": "C8H17Br",
+    "molecular_weight": 193.12,
+    "smiles": "CCCCCC[C@H](C)Br",
+    "heavy_atoms": 9,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02867709366466878
+  },
+  {
+    "cid": 11078288,
+    "name": "Tri-O-acetyl-beta-D-arabinosylbromide",
+    "formula": "C11H15BrO7",
+    "molecular_weight": 339.14,
+    "smiles": "CC(=O)O[C@H]1[C@H](OC(C)=O)[C@H](OC(C)=O)CO[C@H]1Br",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02839044025085818
+  },
+  {
+    "cid": 640120,
+    "name": "beta-L-Arabinopyranosyl bromide, triacetate",
+    "formula": "C11H15BrO7",
+    "molecular_weight": 339.14,
+    "smiles": "CC(=O)O[C@@H]1[C@@H](OC(C)=O)[C@@H](Br)OC[C@@H]1OC(C)=O",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02839044025085818
+  },
+  {
+    "cid": 11013202,
+    "name": "2,3,4-Tri-O-acetyl-alpha-D-xylopyranosyl bromide",
+    "formula": "C11H15BrO7",
+    "molecular_weight": 339.14,
+    "smiles": "CC(=O)O[C@@H]1[C@@H](OC(C)=O)[C@H](OC(C)=O)CO[C@@H]1Br",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02839044025085818
+  },
+  {
+    "cid": 101117435,
+    "name": "(E)-1-bromo-5-[(1R,3S)-3-bromo-2,2-dimethyl-6-methylidenecyclohexyl]-3-methylpent-3-en-2-ol",
+    "formula": "C15H24Br2O",
+    "molecular_weight": 380.16,
+    "smiles": "C=C1CC[C@H](Br)C(C)(C)[C@@H]1C/C=C(\\C)C(O)CBr",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.02800425298802864
+  },
+  {
+    "cid": 163194823,
+    "name": "(E)-1-bromo-5-[(1S,3R)-3-bromo-2,2-dimethyl-6-methylidenecyclohexyl]-3-methylpent-3-en-2-ol",
+    "formula": "C15H24Br2O",
+    "molecular_weight": 380.16,
+    "smiles": "C=C1CC[C@@H](Br)C(C)(C)[C@H]1C/C=C(\\C)C(O)CBr",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.02800425298802864
+  },
+  {
+    "cid": 56928097,
+    "name": "5-[(1R,3R)-3-Bromo-2,2-dimethyl-6-methylidenecyclohexyl]-3-methylpent-1-en-3-ol",
+    "formula": "C15H25BrO",
+    "molecular_weight": 301.26,
+    "smiles": "C=CC(C)(O)CC[C@@H]1C(=C)CC[C@@H](Br)C1(C)C",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02720060546571407
+  },
+  {
+    "cid": 14702828,
+    "name": "(E,1R)-1-[(2R,3S,5Z,8R)-3-bromo-2-ethyl-3,4,7,8-tetrahydro-2H-oxocin-8-yl]hex-3-en-5-yn-1-ol",
+    "formula": "C15H21BrO2",
+    "molecular_weight": 313.23,
+    "smiles": "C#C/C=C/C[C@@H](O)[C@H]1C/C=C\\C[C@H](Br)[C@@H](CC)O1",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.027013735817859156
+  },
+  {
+    "cid": 162944702,
+    "name": "(2R,3S,5Z,8R)-3-bromo-8-[(Z,1R)-1-chlorohex-3-en-5-ynyl]-2-ethyl-3,4,7,8-tetrahydro-2H-oxocine",
+    "formula": "C15H20BrClO",
+    "molecular_weight": 331.67,
+    "smiles": "C#C/C=C\\C[C@@H](Cl)[C@H]1C/C=C\\C[C@H](Br)[C@@H](CC)O1",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.027013735817859156
+  },
+  {
+    "cid": 163111719,
+    "name": "(E)-1-bromo-5-[(1S,3R)-3-bromo-2,2-dimethyl-6-methylidenecyclohexyl]-3-methylpent-4-ene-2,3-diol",
+    "formula": "C15H24Br2O2",
+    "molecular_weight": 396.16,
+    "smiles": "C=C1CC[C@@H](Br)C(C)(C)[C@H]1/C=C/C(C)(O)C(O)CBr",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 6
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02689236440547942
+  },
+  {
+    "cid": 15386451,
+    "name": "(3R,4aR,8R,8aR)-8-bromo-8a-methyl-3-[(2E,4E)-6-methylhepta-2,4,6-trien-2-yl]-5-methylidene-2,3,4,6,7,8-hexahydro-1H-naphthalen-4a-ol",
+    "formula": "C20H29BrO",
+    "molecular_weight": 365.3,
+    "smiles": "C=C(C)/C=C/C=C(\\C)[C@@H]1CC[C@@]2(C)[C@H](Br)CCC(=C)[C@]2(O)C1",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      },
+      {
+        "atom": 17,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.026678404425201304
+  },
+  {
+    "cid": 13338346,
+    "name": "benzyl (2S,5R,6S)-6-bromo-3,3-dimethyl-4,4,7-trioxo-4lambda6-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate",
+    "formula": "C15H16BrNO5S",
+    "molecular_weight": 402.3,
+    "smiles": "CC1(C)[C@H](C(=O)OCc2ccccc2)N2C(=O)[C@H](Br)[C@H]2S1(=O)=O",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02662170168472641
+  },
+  {
+    "cid": 162664849,
+    "name": "Dnmt-IN-1",
+    "formula": "C15H9BrN2O6",
+    "molecular_weight": 393.14,
+    "smiles": "O=C1c2ccccc2O[C@H](c2ccccc2[N+](=O)[O-])[C@@]1(Br)[N+](=O)[O-]",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.026468065935374496
+  },
+  {
+    "cid": 162675959,
+    "name": "(2R,3R)-3-bromo-3-nitro-2-(2-nitrophenyl)-2H-chromen-4-one",
+    "formula": "C15H9BrN2O6",
+    "molecular_weight": 393.14,
+    "smiles": "O=C1c2ccccc2O[C@H](c2ccccc2[N+](=O)[O-])[C@]1(Br)[N+](=O)[O-]",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.026468065935374496
+  },
+  {
+    "cid": 42608267,
+    "name": "Rogioldiol A",
+    "formula": "C20H33BrO2",
+    "molecular_weight": 385.4,
+    "smiles": "C=C1CCCC(C)(C)C1[C@H](O)/C=C(\\C)C1CC[C@@](C)(O)[C@@H](Br)C1",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 17,
+        "cip": "R"
+      },
+      {
+        "atom": 18,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.026283494948259833
+  },
+  {
+    "cid": 6442426,
+    "name": "(3R,4aR,8R,8aR)-8-bromo-3-[(2E,4E)-6-hydroxy-6-methylhepta-2,4-dien-2-yl]-8a-methyl-5-methylidene-2,3,4,6,7,8-hexahydro-1H-naphthalen-4a-ol",
+    "formula": "C20H31BrO2",
+    "molecular_weight": 383.4,
+    "smiles": "C=C1CC[C@@H](Br)[C@]2(C)CC[C@@H](/C(C)=C/C=C/C(C)(C)O)C[C@@]12O",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      },
+      {
+        "atom": 13,
+        "cip": "R"
+      },
+      {
+        "atom": 18,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.025607081475326678
+  },
+  {
+    "cid": 10022698,
+    "name": "Prefuroplocamioid",
+    "formula": "C10H14Br2Cl2O",
+    "molecular_weight": 380.93,
+    "smiles": "CC(=C/C[C@@H](O)[C@](C)(Br)CCl)/C(Cl)=C/Br",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      },
+      {
+        "element": "Br",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.025155855848599393
+  },
+  {
+    "cid": 11844113,
+    "name": "(1R,3S,4S)-4-bromo-3-chloro-1-[(4S)-4-hydroxy-6-methylhepta-1,5-dien-2-yl]-4-methylcyclohexan-1-ol",
+    "formula": "C15H24BrClO2",
+    "molecular_weight": 351.7,
+    "smiles": "C=C(C[C@H](O)C=C(C)C)[C@@]1(O)CC[C@](C)(Br)[C@@H](Cl)C1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02506815468958755
+  },
+  {
+    "cid": 3246551,
+    "name": "5-[(1R,2S)-2-bromo-1-(2-methylpropoxy)propyl]-1,3-benzodioxole",
+    "formula": "C14H19BrO3",
+    "molecular_weight": 315.2,
+    "smiles": "CC(C)CO[C@H](c1ccc2c(c1)OCO2)[C@H](C)Br",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.024590663085845146
+  },
+  {
+    "cid": 44356713,
+    "name": "(5R,6R)-1-[4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-bromo-6-methoxy-5-methyl-1,3-diazinane-2,4-dione",
+    "formula": "C11H16BrN5O5",
+    "molecular_weight": 378.18,
+    "smiles": "CO[C@H]1N(C2CC(N=[N+]=[N-])C(CO)O2)C(=O)NC(=O)[C@]1(C)Br",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02387978749040078
+  },
+  {
+    "cid": 44356822,
+    "name": "(5S,6S)-1-[4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-bromo-6-methoxy-5-methyl-1,3-diazinane-2,4-dione",
+    "formula": "C11H16BrN5O5",
+    "molecular_weight": 378.18,
+    "smiles": "CO[C@@H]1N(C2CC(N=[N+]=[N-])C(CO)O2)C(=O)NC(=O)[C@@]1(C)Br",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02387978749040078
+  },
+  {
+    "cid": 10547058,
+    "name": "Isopinnatol B",
+    "formula": "C20H33BrO",
+    "molecular_weight": 369.4,
+    "smiles": "C=CC(C)(O)CC[C@@H]1C(=C)CC[C@@H]2C(C)(C)[C@H](Br)CC[C@@]12C",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02355646348182669
+  },
+  {
+    "cid": 6442655,
+    "name": "(4Z,6S,7R)-7-bromo-4,6,8-trichloro-2,6-dimethylocta-1,4-dien-3-one",
+    "formula": "C10H12BrCl3O",
+    "molecular_weight": 334.5,
+    "smiles": "C=C(C)C(=O)/C(Cl)=C/[C@](C)(Cl)[C@H](Br)CCl",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02324520034479197
+  },
+  {
+    "cid": 21775787,
+    "name": "Pueritol-B-Acetate",
+    "formula": "C17H26BrClO2",
+    "molecular_weight": 377.7,
+    "smiles": "CC(=O)O[C@@H](C=C(C)C)C/C(C)=C1\\CC[C@](C)(Br)[C@@H](Cl)C1",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02315184376485644
+  },
+  {
+    "cid": 11843978,
+    "name": "(1S,3S,4S)-4-bromo-3-chloro-1-(5-hydroxy-6-methylhepta-1,6-dien-2-yl)-4-methylcyclohexan-1-ol",
+    "formula": "C15H24BrClO2",
+    "molecular_weight": 351.7,
+    "smiles": "C=C(C)C(O)CCC(=C)[C@]1(O)CC[C@](C)(Br)[C@@H](Cl)C1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.022441967055440278
+  },
+  {
+    "cid": 11844114,
+    "name": "(1R,3S,4S)-4-bromo-3-chloro-1-(5-hydroxy-6-methylhepta-1,6-dien-2-yl)-4-methylcyclohexan-1-ol",
+    "formula": "C15H24BrClO2",
+    "molecular_weight": 351.7,
+    "smiles": "C=C(C)C(O)CCC(=C)[C@@]1(O)CC[C@](C)(Br)[C@@H](Cl)C1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.022441967055440278
+  },
+  {
+    "cid": 6436276,
+    "name": "Laurencin",
+    "formula": "C17H23BrO3",
+    "molecular_weight": 355.3,
+    "smiles": "C#C/C=C/C[C@@H](OC(C)=O)[C@H]1C/C=C\\C[C@H](Br)[C@@H](CC)O1",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.02135448561976368
+  },
+  {
+    "cid": 44356647,
+    "name": "(5S,6S)-1-[4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-bromo-6-ethoxy-5-methyl-1,3-diazinane-2,4-dione",
+    "formula": "C12H18BrN5O5",
+    "molecular_weight": 392.21,
+    "smiles": "CCO[C@@H]1N(C2CC(N=[N+]=[N-])C(CO)O2)C(=O)NC(=O)[C@@]1(C)Br",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.020509132586465143
+  },
+  {
+    "cid": 44356832,
+    "name": "(5R,6R)-1-[4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-bromo-6-ethoxy-5-methyl-1,3-diazinane-2,4-dione",
+    "formula": "C12H18BrN5O5",
+    "molecular_weight": 392.21,
+    "smiles": "CCO[C@H]1N(C2CC(N=[N+]=[N-])C(CO)O2)C(=O)NC(=O)[C@]1(C)Br",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.020509132586465143
+  },
+  {
+    "cid": 11970057,
+    "name": "Thymidine,6-dihydro-6-(1-methylethoxy)-",
+    "formula": "C13H20BrN5O5",
+    "molecular_weight": 406.23,
+    "smiles": "CC(C)O[C@H]1N(C2CC(N=[N+]=[N-])C(CO)O2)C(=O)NC(=O)[C@]1(C)Br",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.01968541113671651
+  }
+]

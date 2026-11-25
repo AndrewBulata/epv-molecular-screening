@@ -1,0 +1,3750 @@
+[
+  {
+    "cid": 9800976,
+    "name": "(2R)-N-[4-Cyano-3-(trifluoromethyl)phenyl]-2-hydroxy-3-iodo-2-methylpropanamide",
+    "formula": "C12H10F3IN2O2",
+    "molecular_weight": 398.12,
+    "smiles": "C[C@](O)(CI)C(=O)Nc1ccc(C#N)c(C(F)(F)F)c1",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 2
+      }
+    ],
+    "screen_score": 0.1078544908324929
+  },
+  {
+    "cid": 11742733,
+    "name": "(R)-N-[3-(Trifluoromethyl)-4-nitrophenyl]-3-iodo-2-hydroxy-2-methylpropanamide",
+    "formula": "C11H10F3IN2O4",
+    "molecular_weight": 418.11,
+    "smiles": "C[C@](O)(CI)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 2
+      }
+    ],
+    "screen_score": 0.09154161539492034
+  },
+  {
+    "cid": 6604220,
+    "name": "Benzenepropanoic acid, 3-amino-alpha-ethyl-2,4,6-triiodo-, (alphaR)-",
+    "formula": "C11H12I3NO2",
+    "molecular_weight": 570.93,
+    "smiles": "CC[C@H](Cc1c(I)cc(I)c(N)c1I)C(=O)O",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      },
+      {
+        "element": "I",
+        "distance": 6
+      },
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.06627641040611042
+  },
+  {
+    "cid": 512864,
+    "name": "3-Bromocamphor, (+)-",
+    "formula": "C10H15BrO",
+    "molecular_weight": 231.13,
+    "smiles": "CC1(C)[C@@H]2CC[C@@]1(C)C(=O)[C@H]2Br",
+    "heavy_atoms": 12,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06528901401356699
+  },
+  {
+    "cid": 445258,
+    "name": "(R)-halothane",
+    "formula": "C2HBrClF3",
+    "molecular_weight": 197.38,
+    "smiles": "FC(F)(F)[C@H](Cl)Br",
+    "heavy_atoms": 7,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 0,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.06236698311946999
+  },
+  {
+    "cid": 16040156,
+    "name": "6-Iodouridine 5'-monophosphate",
+    "formula": "C9H12IN2O9P",
+    "molecular_weight": 450.08,
+    "smiles": "O=c1cc(I)n([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)c(=O)[nH]1",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.04688752505332937
+  },
+  {
+    "cid": 16124514,
+    "name": "[(2R,3S,4R,5R)-5-(5-fluoro-6-iodo-2,4-dioxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methyl dihydrogen phosphate",
+    "formula": "C9H11FIN2O9P",
+    "molecular_weight": 468.07,
+    "smiles": "O=c1[nH]c(=O)n([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)c(I)c1F",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.04498167151641195
+  },
+  {
+    "cid": 9842606,
+    "name": "7-(5-Deoxy-beta-D-ribofuranosyl)-5-iodo-7H-pyrrolo[2,3-D]pyrimidin-4-amine",
+    "formula": "C11H13IN4O3",
+    "molecular_weight": 376.15,
+    "smiles": "C[C@H]1O[C@@H](n2cc(I)c3c(N)ncnc32)[C@H](O)[C@@H]1O",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.042663506239999656
+  },
+  {
+    "cid": 9885936,
+    "name": "A 134974",
+    "formula": "C11H14IN5O2",
+    "molecular_weight": 375.17,
+    "smiles": "Nc1ncnc2c1c(I)cn2[C@@H]1C[C@H](N)[C@@H](O)[C@H]1O",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.042663506239999656
+  },
+  {
+    "cid": 9840777,
+    "name": "Ropidoxuridine",
+    "formula": "C9H11IN2O4",
+    "molecular_weight": 338.1,
+    "smiles": "O=c1ncc(I)cn1[C@H]1C[C@H](O)[C@@H](CO)O1",
+    "heavy_atoms": 16,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.03959597415293089
+  },
+  {
+    "cid": 5905,
+    "name": "Idoxuridine",
+    "formula": "C9H11IN2O5",
+    "molecular_weight": 354.1,
+    "smiles": "O=c1[nH]c(=O)n([C@H]2C[C@H](O)[C@@H](CO)O2)cc1I",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.037797870670961554
+  },
+  {
+    "cid": 65050,
+    "name": "Ibacitabine",
+    "formula": "C9H12IN3O4",
+    "molecular_weight": 353.11,
+    "smiles": "Nc1nc(=O)n([C@H]2C[C@H](O)[C@@H](CO)O2)cc1I",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.037797870670961554
+  },
+  {
+    "cid": 512326,
+    "name": "1-[(2S,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-iodopyrimidine-2,4-dione",
+    "formula": "C9H11IN2O5",
+    "molecular_weight": 354.1,
+    "smiles": "O=c1[nH]c(=O)n([C@@H]2C[C@H](O)[C@@H](CO)O2)cc1I",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.037797870670961554
+  },
+  {
+    "cid": 15289165,
+    "name": "5-Iodo-2'-deoxytubercidin",
+    "formula": "C11H13IN4O3",
+    "molecular_weight": 376.15,
+    "smiles": "Nc1ncnc2c1c(I)cn2[C@H]1C[C@H](O)[C@@H](CO)O1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.036145470564444164
+  },
+  {
+    "cid": 50312,
+    "name": "Fiac",
+    "formula": "C9H11FIN3O4",
+    "molecular_weight": 371.1,
+    "smiles": "Nc1nc(=O)n([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2F)cc1I",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.036123417131359116
+  },
+  {
+    "cid": 50313,
+    "name": "Fialuridine",
+    "formula": "C9H10FIN2O5",
+    "molecular_weight": 372.09,
+    "smiles": "O=c1[nH]c(=O)n([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2F)cc1I",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.036123417131359116
+  },
+  {
+    "cid": 1268108,
+    "name": "5-Iodouridine",
+    "formula": "C9H11IN2O6",
+    "molecular_weight": 370.1,
+    "smiles": "O=c1[nH]c(=O)n([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)cc1I",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.036123417131359116
+  },
+  {
+    "cid": 9305,
+    "name": "3',5'-Diiodo-L-tyrosine",
+    "formula": "C9H9I2NO3",
+    "molecular_weight": 432.98,
+    "smiles": "N[C@@H](Cc1cc(I)c(O)c(I)c1)C(=O)O",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.03611007992588592
+  },
+  {
+    "cid": 7058163,
+    "name": "CID 7058163",
+    "formula": "C9H9I2NO3",
+    "molecular_weight": 432.98,
+    "smiles": "[NH3+][C@@H](Cc1cc(I)c(O)c(I)c1)C(=O)[O-]",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.03611007992588592
+  },
+  {
+    "cid": 97297,
+    "name": "5-Iodotubercidin",
+    "formula": "C11H13IN4O4",
+    "molecular_weight": 392.15,
+    "smiles": "Nc1ncnc2c1c(I)cn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.03454447745452369
+  },
+  {
+    "cid": 446940,
+    "name": "(2R,3R,4S,5R)-2-(4-Amino-3-iodo-1H-pyrazolo[3,4-d]pyrimidin-1-yl)-5-(hydroxymethyl)tetrahydrofuran-3,4-diol",
+    "formula": "C10H12IN5O4",
+    "molecular_weight": 393.14,
+    "smiles": "Nc1ncnc2c1c(I)nn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      },
+      {
+        "atom": 12,
+        "cip": "S"
+      },
+      {
+        "atom": 13,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.03454447745452369
+  },
+  {
+    "cid": 10340386,
+    "name": "2-(4-Amino-5-iodo-pyrrolo[2,3-d]pyrimidin-7-yl)-5-aminomethyl-tetrahydro-furan-3,4-diol",
+    "formula": "C11H14IN5O3",
+    "molecular_weight": 391.17,
+    "smiles": "NC[C@H]1O[C@@H](n2cc(I)c3c(N)ncnc32)[C@H](O)[C@@H]1O",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.03454447745452369
+  },
+  {
+    "cid": 10454249,
+    "name": "2-Aminomethyl-5-(4-chloro-5-iodo-pyrrolo[2,3-d]pyrimidin-7-yl)-tetrahydro-furan-3,4-diol",
+    "formula": "C11H12ClIN4O3",
+    "molecular_weight": 410.59,
+    "smiles": "NC[C@H]1O[C@@H](n2cc(I)c3c(Cl)ncnc32)[C@H](O)[C@@H]1O",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 5,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.03454447745452369
+  },
+  {
+    "cid": 100308,
+    "name": "Aeroplysinin",
+    "formula": "C9H9Br2NO3",
+    "molecular_weight": 338.98,
+    "smiles": "COC1=C(Br)[C@H](O)[C@](O)(CC#N)C=C1Br",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "R"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 3
+      },
+      {
+        "element": "Br",
+        "distance": 2
+      }
+    ],
+    "screen_score": 0.03194661235037462
+  },
+  {
+    "cid": 124499,
+    "name": "5-Iodobenzovesamicol",
+    "formula": "C21H24INO",
+    "molecular_weight": 433.3,
+    "smiles": "O[C@@H]1Cc2cccc(I)c2C[C@H]1N1CCC(c2ccccc2)CC1",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 12,
+        "cip": "R"
+      },
+      {
+        "atom": 17,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.031860755455677445
+  },
+  {
+    "cid": 11099104,
+    "name": "3-Iodocytisine",
+    "formula": "C11H13IN2O",
+    "molecular_weight": 316.14,
+    "smiles": "O=c1c(I)ccc2n1C[C@@H]1CNC[C@H]2C1",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.030805103192140908
+  },
+  {
+    "cid": 10432143,
+    "name": "5-Bromo-2-[[(1S,3R)-3-bromo-2,2-dimethyl-6-methylidenecyclohexyl]methyl]-4-methoxyphenol",
+    "formula": "C17H22Br2O2",
+    "molecular_weight": 418.2,
+    "smiles": "C=C1CC[C@@H](Br)C(C)(C)[C@H]1Cc1cc(OC)c(Br)cc1O",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 6
+      },
+      {
+        "element": "Br",
+        "distance": 1
+      }
+    ],
+    "screen_score": 0.030685310819996075
+  },
+  {
+    "cid": 64979,
+    "name": "3'-Azido-2',3'-dideoxy-5-iodouridine",
+    "formula": "C9H10IN5O4",
+    "molecular_weight": 379.11,
+    "smiles": "[N-]=[N+]=N[C@H]1C[C@H](n2cc(I)c(=O)[nH]c2=O)O[C@@H]1CO",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.029977581374514055
+  },
+  {
+    "cid": 9847757,
+    "name": "2-IodoEMATE",
+    "formula": "C18H22INO4S",
+    "molecular_weight": 475.3,
+    "smiles": "C[C@]12CC[C@@H]3c4cc(I)c(OS(N)(=O)=O)cc4CC[C@H]3[C@@H]1CCC2=O",
+    "heavy_atoms": 25,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.028835559767444455
+  },
+  {
+    "cid": 10004036,
+    "name": "3-Iodoboldine",
+    "formula": "C19H20INO4",
+    "molecular_weight": 453.3,
+    "smiles": "COc1cc2c(cc1O)C[C@H]1c3c(c(I)c(O)c(OC)c3-2)CCN1C",
+    "heavy_atoms": 25,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.028835559767444455
+  },
+  {
+    "cid": 44295745,
+    "name": "3-(4-Ethyl-3-iodo-phenyl)-8-aza-bicyclo[3.2.1]octane-2-carboxylic acid methyl ester",
+    "formula": "C17H22INO2",
+    "molecular_weight": 399.27,
+    "smiles": "CCc1ccc([C@H]2C[C@H]3CCC(N3)C2C(=O)OC)cc1I",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.0286644651515028
+  },
+  {
+    "cid": 656655,
+    "name": "Mitobronitol",
+    "formula": "C6H12Br2O4",
+    "molecular_weight": 307.96,
+    "smiles": "O[C@@H]([C@H](O)[C@H](O)CBr)[C@H](O)CBr",
+    "heavy_atoms": 12,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 2
+      }
+    ],
+    "screen_score": 0.027223197012938277
+  },
+  {
+    "cid": 5284380,
+    "name": "Mitolactol",
+    "formula": "C6H12Br2O4",
+    "molecular_weight": 307.96,
+    "smiles": "O[C@H]([C@H](O)[C@@H](O)CBr)[C@H](O)CBr",
+    "heavy_atoms": 12,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 2
+      },
+      {
+        "element": "Br",
+        "distance": 2
+      }
+    ],
+    "screen_score": 0.027223197012938277
+  },
+  {
+    "cid": 44438485,
+    "name": "Morpholine, 2-((S)-(2-iodophenoxy)phenylmethyl)-, (2S)-",
+    "formula": "C17H18INO2",
+    "molecular_weight": 395.23,
+    "smiles": "Ic1ccccc1O[C@@H](c1ccccc1)[C@@H]1CNCCO1",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.02667822705446077
+  },
+  {
+    "cid": 45487451,
+    "name": "(2R,3S)-2-[(2-Iodophenoxy)phenylmethyl]morpholine",
+    "formula": "C17H18INO2",
+    "molecular_weight": 395.23,
+    "smiles": "Ic1ccccc1O[C@@H](c1ccccc1)[C@H]1CNCCO1",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.02667822705446077
+  },
+  {
+    "cid": 73754990,
+    "name": "[125I]Lsd",
+    "formula": "C20H24IN3O",
+    "molecular_weight": 447.3,
+    "smiles": "CCN(CC)C(=O)[C@@H]1C=C2c3cccc4[nH]c([125I])c(c34)C[C@H]2N(C)C1",
+    "heavy_atoms": 25,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.02473110741368068
+  },
+  {
+    "cid": 71185540,
+    "name": "4-[4-[(2S)-2-amino-3-hydroxypropyl]-2,6-diiodophenoxy]phenol",
+    "formula": "C15H15I2NO3",
+    "molecular_weight": 511.09,
+    "smiles": "N[C@H](CO)Cc1cc(I)c(Oc2ccc(O)cc2)c(I)c1",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 16,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.024355205397671546
+  },
+  {
+    "cid": 449489,
+    "name": "5-Iodo-2'-deoxyuridine 5'-monophosphate",
+    "formula": "C9H12IN2O8P",
+    "molecular_weight": 434.08,
+    "smiles": "O=c1[nH]c(=O)n([C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)cc1I",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.024284027190598908
+  },
+  {
+    "cid": 44297909,
+    "name": "3-((S)-Azetidin-2-yloxy)-5-iodo-pyridine",
+    "formula": "C8H9IN2O",
+    "molecular_weight": 276.07,
+    "smiles": "Ic1cncc(O[C@H]2CCN2)c1",
+    "heavy_atoms": 12,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.023548109459963166
+  },
+  {
+    "cid": 92859,
+    "name": "3,5-Diiodothyronine, L-",
+    "formula": "C15H13I2NO4",
+    "molecular_weight": 525.08,
+    "smiles": "N[C@@H](Cc1cc(I)c(Oc2ccc(O)cc2)c(I)c1)C(=O)O",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 16,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.02333935522904158
+  },
+  {
+    "cid": 118712159,
+    "name": "methyl (2S)-3-(4-iodo-1H-imidazol-5-yl)-2-[(2-methylpropan-2-yl)oxycarbonylamino]propanoate",
+    "formula": "C12H18IN3O4",
+    "molecular_weight": 395.19,
+    "smiles": "COC(=O)[C@H](Cc1[nH]cnc1I)NC(=O)OC(C)(C)C",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.023112300988543152
+  },
+  {
+    "cid": 5920,
+    "name": "Liothyronine",
+    "formula": "C15H12I3NO4",
+    "molecular_weight": 650.97,
+    "smiles": "N[C@@H](Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)O",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 15,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 10
+      }
+    ],
+    "screen_score": 0.022717433885020368
+  },
+  {
+    "cid": 71212,
+    "name": "D-Triiodothyronine",
+    "formula": "C15H12I3NO4",
+    "molecular_weight": 650.97,
+    "smiles": "N[C@H](Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)O",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 15,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 10
+      }
+    ],
+    "screen_score": 0.022717433885020368
+  },
+  {
+    "cid": 7048703,
+    "name": "4-(3-Iodo-4-hydroxy-phenoxy)-3,5-diiodophenylalanine",
+    "formula": "C15H12I3NO4",
+    "molecular_weight": 650.97,
+    "smiles": "[NH3+][C@@H](Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)[O-]",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 15,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 10
+      }
+    ],
+    "screen_score": 0.022717433885020368
+  },
+  {
+    "cid": 5819,
+    "name": "Thyroxine",
+    "formula": "C15H11I4NO4",
+    "molecular_weight": 776.87,
+    "smiles": "N[C@@H](Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)O",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 19,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 10
+      },
+      {
+        "element": "I",
+        "distance": 10
+      },
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.02211912479825033
+  },
+  {
+    "cid": 8730,
+    "name": "D-Thyroxine",
+    "formula": "C15H11I4NO4",
+    "molecular_weight": 776.87,
+    "smiles": "N[C@H](Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)O",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 19,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 10
+      },
+      {
+        "element": "I",
+        "distance": 10
+      },
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.02211912479825033
+  },
+  {
+    "cid": 25201348,
+    "name": "(2S)-2-ammonio-3-[4-(4-hydroxy-3,5-diiodophenoxy)-3,5-diiodophenyl]propanoate",
+    "formula": "C15H11I4NO4",
+    "molecular_weight": 776.87,
+    "smiles": "[NH3+][C@@H](Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)[O-]",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 19,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 10
+      },
+      {
+        "element": "I",
+        "distance": 10
+      },
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.02211912479825033
+  },
+  {
+    "cid": 90657408,
+    "name": "(2R)-2-azaniumyl-3-[4-(4-hydroxy-3,5-diiodophenoxy)-3,5-diiodophenyl]propanoate",
+    "formula": "C15H11I4NO4",
+    "molecular_weight": 776.87,
+    "smiles": "[NH3+][C@H](Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)[O-]",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 19,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 10
+      },
+      {
+        "element": "I",
+        "distance": 10
+      },
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.02211912479825033
+  },
+  {
+    "cid": 21729104,
+    "name": "[(1R)-1-[(5Z)-4-bromo-5-(iodomethylidene)-2-oxofuran-3-yl]butyl] acetate",
+    "formula": "C11H12BrIO4",
+    "molecular_weight": 415.02,
+    "smiles": "CCC[C@@H](OC(C)=O)C1=C(Br)/C(=C/I)OC1=O",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.021705558866961686
+  },
+  {
+    "cid": 119353,
+    "name": "8-iodo-2,3,4,5-tetrahydro-3-methyl-5-phenyl-1H-3-benzazepine-7-ol",
+    "formula": "C17H18INO",
+    "molecular_weight": 377.23,
+    "smiles": "CN1CCc2cc([125I])c(O)cc2[C@@H](c2ccccc2)C1",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.0211014921564102
+  },
+  {
+    "cid": 44281202,
+    "name": "(5R)-2,3,4,5-Tetrahydro-8-iodo-3-methyl-5-phenyl-1H-3-benzazepin-7-ol",
+    "formula": "C17H18INO",
+    "molecular_weight": 379.23,
+    "smiles": "CN1CCc2cc(I)c(O)cc2[C@@H](c2ccccc2)C1",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.0211014921564102
+  },
+  {
+    "cid": 10365181,
+    "name": "(E)-(R)-2-Hydroxy-5-iodo-2-phenyl-pent-4-enoic acid (R)-(1-aza-bicyclo[2.2.2]oct-3-yl) ester",
+    "formula": "C18H22INO3",
+    "molecular_weight": 427.3,
+    "smiles": "O=C(O[C@H]1CN2CCC1CC2)[C@@](O)(C/C=C/I)c1ccccc1",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.020779156795459365
+  },
+  {
+    "cid": 10387775,
+    "name": "[(3R)-1-azabicyclo[2.2.2]octan-3-yl] (Z,2R)-2-hydroxy-5-iodo-2-phenylpent-4-enoate",
+    "formula": "C18H22INO3",
+    "molecular_weight": 427.3,
+    "smiles": "O=C(O[C@H]1CN2CCC1CC2)[C@@](O)(C/C=C\\I)c1ccccc1",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.020779156795459365
+  },
+  {
+    "cid": 135427931,
+    "name": "1-((S)-2-aminopropyl)-7-iodo-1H-indazol-6-ol",
+    "formula": "C10H12IN3O",
+    "molecular_weight": 317.13,
+    "smiles": "C[C@H](N)Cn1ncc2ccc(O)c(I)c21",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.019860493852563138
+  },
+  {
+    "cid": 14930273,
+    "name": "methyl 3-(4-iodophenyl)-(2S,3S)-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "formula": "C15H18INO2",
+    "molecular_weight": 371.21,
+    "smiles": "COC(=O)[C@@H]1C2CCC(C[C@@H]1c1ccc(I)cc1)N2",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.01794930948092795
+  },
+  {
+    "cid": 71093938,
+    "name": "methyl (2S,3S,5R)-3-(4-iodophenyl)-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "formula": "C15H18INO2",
+    "molecular_weight": 371.21,
+    "smiles": "COC(=O)[C@@H]1C2CC[C@H](C[C@@H]1c1ccc(I)cc1)N2",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.01794930948092795
+  },
+  {
+    "cid": 16747611,
+    "name": "3-Iodo-L-phenylalanine",
+    "formula": "C9H10INO2",
+    "molecular_weight": 291.09,
+    "smiles": "N[C@@H](Cc1cccc(I)c1)C(=O)O",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.01773753583842199
+  },
+  {
+    "cid": 108220,
+    "name": "Iometopane",
+    "formula": "C16H20INO2",
+    "molecular_weight": 385.24,
+    "smiles": "COC(=O)[C@H]1[C@@H](c2ccc(I)cc2)C[C@@H]2CC[C@H]1N2C",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.01715427983107014
+  },
+  {
+    "cid": 169662,
+    "name": "2-Iodoadenosine",
+    "formula": "C10H12IN5O4",
+    "molecular_weight": 393.14,
+    "smiles": "Nc1nc(I)nc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      },
+      {
+        "atom": 12,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.01715427983107014
+  },
+  {
+    "cid": 44295709,
+    "name": "(1R,3S)-3-(4-iodophenyl)-8-methyl-8-azabicyclo[3.2.1]octane-4-carboxylic acid methyl ester",
+    "formula": "C16H20INO2",
+    "molecular_weight": 385.24,
+    "smiles": "COC(=O)C1C2CC[C@H](C[C@@H]1c1ccc(I)cc1)N2C",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.01715427983107014
+  },
+  {
+    "cid": 439744,
+    "name": "3-Iodo-L-Tyrosine",
+    "formula": "C9H10INO3",
+    "molecular_weight": 307.08,
+    "smiles": "N[C@@H](Cc1ccc(O)c(I)c1)C(=O)O",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.016957320338795517
+  },
+  {
+    "cid": 6918986,
+    "name": "Monoiodo-tyrosine",
+    "formula": "C9H10INO3",
+    "molecular_weight": 307.08,
+    "smiles": "[NH3+][C@@H](Cc1ccc(O)c(I)c1)C(=O)[O-]",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.016957320338795517
+  },
+  {
+    "cid": 71454539,
+    "name": "(1R,9R,10R)-17-[(Z)-3-iodoprop-2-enyl]-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-5-ol",
+    "formula": "C19H24INO",
+    "molecular_weight": 409.3,
+    "smiles": "Oc1ccc2c(c1)C[C@@H]1[C@@H]3CCCC[C@]23CCN1C/C=C\\I",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.016321559648009718
+  },
+  {
+    "cid": 447196,
+    "name": "Iodo-Willardiine",
+    "formula": "C7H8IN3O4",
+    "molecular_weight": 325.06,
+    "smiles": "N[C@@H](Cn1cc(I)c(=O)[nH]c1=O)C(=O)O",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.01623169705683941
+  },
+  {
+    "cid": 9910220,
+    "name": "4XC2A2Npz2",
+    "formula": "C19H25IN2O",
+    "molecular_weight": 424.3,
+    "smiles": "CN1[C@H]2CC[C@@H]1[C@@H](C(=O)N1CCCC1)[C@@H](c1ccc(I)cc1)C2",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.015991863712130478
+  },
+  {
+    "cid": 11660398,
+    "name": "Iodometomidate i-123, R-",
+    "formula": "C13H13IN2O2",
+    "molecular_weight": 356.16,
+    "smiles": "COC(=O)c1cncn1[C@H](C)c1ccc(I)cc1",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.015560985313873532
+  },
+  {
+    "cid": 46877732,
+    "name": "propan-2-yl (3S,5R)-3-(4-iodophenyl)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "formula": "C18H24INO2",
+    "molecular_weight": 413.3,
+    "smiles": "CC(C)OC(=O)C1C2CC[C@H](C[C@@H]1c1ccc(I)cc1)N2C",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.013626569272265542
+  },
+  {
+    "cid": 45487450,
+    "name": "(2R,3S)-2-[(3-Iodophenoxy)phenylmethyl]morpholine",
+    "formula": "C17H18INO2",
+    "molecular_weight": 395.23,
+    "smiles": "Ic1cccc(O[C@@H](c2ccccc2)[C@H]2CNCCO2)c1",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.013248015486455602
+  },
+  {
+    "cid": 177936,
+    "name": "Agelastatin A",
+    "formula": "C12H13BrN4O3",
+    "molecular_weight": 341.16,
+    "smiles": "CN1C(=O)N[C@H]2[C@@H]3NC(=O)c4ccc(Br)n4[C@@H]3C[C@]21O",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 0,
+    "chiral_centers": [
+      {
+        "atom": 5,
+        "cip": "S"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.012757634807683651
+  },
+  {
+    "cid": 10366827,
+    "name": "Symphyoketone",
+    "formula": "C13H13Br3O3",
+    "molecular_weight": 456.95,
+    "smiles": "O=C1CCCC[C@@H]1Cc1c(Br)c(O)c(O)c(Br)c1Br",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 5,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 4
+      },
+      {
+        "element": "Br",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.012510919001909638
+  },
+  {
+    "cid": 644280,
+    "name": "3',5',3-Triiodothyronine",
+    "formula": "C15H12I3NO4",
+    "molecular_weight": 650.97,
+    "smiles": "N[C@@H](Cc1ccc(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)O",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 10
+      },
+      {
+        "element": "I",
+        "distance": 10
+      }
+    ],
+    "screen_score": 0.011865569429119678
+  },
+  {
+    "cid": 44123465,
+    "name": "(2S)-2-azaniumyl-3-[4-(4-hydroxy-3,5-diiodophenoxy)-3-iodophenyl]propanoate",
+    "formula": "C15H12I3NO4",
+    "molecular_weight": 650.97,
+    "smiles": "[NH3+][C@@H](Cc1ccc(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)[O-]",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 10
+      },
+      {
+        "element": "I",
+        "distance": 10
+      }
+    ],
+    "screen_score": 0.011865569429119678
+  },
+  {
+    "cid": 6604748,
+    "name": "Tocris-0719",
+    "formula": "C16H22INO",
+    "molecular_weight": 371.26,
+    "smiles": "CCCN(C/C=C\\I)[C@@H]1CCc2ccc(O)cc2C1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.011587121482009674
+  },
+  {
+    "cid": 10317103,
+    "name": "7-[(3-Iodo-allyl)-propyl-amino]-5,6,7,8-tetrahydro-naphthalen-2-ol",
+    "formula": "C16H22INO",
+    "molecular_weight": 371.26,
+    "smiles": "CCCN(C/C=C/I)[C@@H]1CCc2ccc(O)cc2C1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.011587121482009674
+  },
+  {
+    "cid": 6440180,
+    "name": "Methyl (1R,2S,3S,5S)-3-(4-fluorophenyl)-8-((2E)-3-iodo-2-propen-1-yl)-8-azabicyclo(3.2.1)octane-2-carboxylate",
+    "formula": "C18H21FINO2",
+    "molecular_weight": 429.3,
+    "smiles": "COC(=O)[C@H]1[C@@H](c2ccc(F)cc2)C[C@@H]2CC[C@H]1N2C/C=C/I",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 15,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.01152612243009856
+  },
+  {
+    "cid": 71587637,
+    "name": "Altropane I-123",
+    "formula": "C18H21FINO2",
+    "molecular_weight": 425.3,
+    "smiles": "COC(=O)[C@H]1[C@@H](c2ccc(F)cc2)C[C@@H]2CC[C@H]1N2C/C=C/[123I]",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 15,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.01152612243009856
+  },
+  {
+    "cid": 5287785,
+    "name": "(R)-3-Bromo-2-hydroxy-2-methyl-N-(4-nitro-3-(trifluoromethyl)phenyl)propanamide",
+    "formula": "C11H10BrF3N2O4",
+    "molecular_weight": 371.11,
+    "smiles": "C[C@](O)(CBr)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 2
+      }
+    ],
+    "screen_score": 0.011496865369302485
+  },
+  {
+    "cid": 107564,
+    "name": "3,3'-Diiodo-L-thyronine",
+    "formula": "C15H13I2NO4",
+    "molecular_weight": 525.08,
+    "smiles": "N[C@@H](Cc1ccc(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)O",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 10
+      }
+    ],
+    "screen_score": 0.011474290186421435
+  },
+  {
+    "cid": 44237213,
+    "name": "3,3'-diiodo-L-thyronine zwitterion",
+    "formula": "C15H13I2NO4",
+    "molecular_weight": 525.08,
+    "smiles": "[NH3+][C@@H](Cc1ccc(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)[O-]",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      },
+      {
+        "element": "I",
+        "distance": 10
+      }
+    ],
+    "screen_score": 0.011474290186421435
+  },
+  {
+    "cid": 146020567,
+    "name": "(3~{S},6~{S})-3-[(4-hydroxyphenyl)methyl]-6-[(3-iodanyl-4-oxidanyl-phenyl)methyl]piperazine-2,5-dione",
+    "formula": "C18H17IN2O4",
+    "molecular_weight": 452.2,
+    "smiles": "O=C1N[C@@H](Cc2ccc(O)c(I)c2)C(=O)N[C@H]1Cc1ccc(O)cc1",
+    "heavy_atoms": 25,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.01109201826925619
+  },
+  {
+    "cid": 44391353,
+    "name": "(S)-2-Amino-3-[4-(4-hydroxy-3-iodo-phenoxy)-3-iodo-5-methyl-phenyl]-propionic acid",
+    "formula": "C16H15I2NO4",
+    "molecular_weight": 539.1,
+    "smiles": "Cc1cc(C[C@H](N)C(=O)O)cc(I)c1Oc1ccc(O)c(I)c1",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 18,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 10
+      },
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.0110024139266993
+  },
+  {
+    "cid": 3086674,
+    "name": "Ioflupane I-123",
+    "formula": "C18H23FINO2",
+    "molecular_weight": 427.3,
+    "smiles": "COC(=O)[C@H]1[C@@H](c2ccc([123I])cc2)C[C@@H]2CC[C@H]1N2CCCF",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 15,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.01031862388980252
+  },
+  {
+    "cid": 10048368,
+    "name": "Ioflupane",
+    "formula": "C18H23FINO2",
+    "molecular_weight": 431.3,
+    "smiles": "COC(=O)[C@H]1[C@@H](c2ccc(I)cc2)C[C@@H]2CC[C@H]1N2CCCF",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      },
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 15,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.01031862388980252
+  },
+  {
+    "cid": 7433743,
+    "name": "(3aS,4R,9bR)-4-(6-bromo-1,3-benzodioxol-5-yl)-3a,4,5,9b-tetrahydro-3H-cyclopenta[c]quinoline",
+    "formula": "C19H16BrNO2",
+    "molecular_weight": 370.2,
+    "smiles": "Brc1cc2c(cc1[C@@H]1Nc3ccccc3[C@@H]3C=CC[C@@H]31)OCO2",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "S"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.00995379214424597
+  },
+  {
+    "cid": 6604876,
+    "name": "3-((2S)-2-Azetidinylmethoxy)-5-iodo-pyridine",
+    "formula": "C9H11IN2O",
+    "molecular_weight": 290.1,
+    "smiles": "Ic1cncc(OC[C@@H]2CCN2)c1",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.009624853892500514
+  },
+  {
+    "cid": 32014,
+    "name": "8-bromo-cAMP",
+    "formula": "C10H11BrN5O6P",
+    "molecular_weight": 408.1,
+    "smiles": "Nc1ncnc2c1nc(Br)n2[C@@H]1O[C@@H]2COP(=O)(O)O[C@H]2[C@H]1O",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.00949987328424778
+  },
+  {
+    "cid": 71459763,
+    "name": "Niodene",
+    "formula": "C10H11IN2O",
+    "molecular_weight": 302.11,
+    "smiles": "Ic1cncc(OC[C@@H]2C=CCN2)c1",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.009336055644964791
+  },
+  {
+    "cid": 25022519,
+    "name": "4-[(3aR,7aS)-4,7-dimethyl-1,3-dioxo-3a,5,6,7a-tetrahydro-4,7-epoxyisoindol-2-yl]-2-iodobenzonitrile",
+    "formula": "C17H15IN2O3",
+    "molecular_weight": 422.22,
+    "smiles": "CC12CCC(C)(O1)[C@H]1C(=O)N(c3ccc(C#N)c(I)c3)C(=O)[C@H]12",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "R"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.009041426151958245
+  },
+  {
+    "cid": 134497,
+    "name": "4-Iodophenylalanine",
+    "formula": "C9H10INO2",
+    "molecular_weight": 291.09,
+    "smiles": "N[C@@H](Cc1ccc(I)cc1)C(=O)O",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.008808199622833805
+  },
+  {
+    "cid": 2733279,
+    "name": "4-Iodo-D-phenylalanine",
+    "formula": "C9H10INO2",
+    "molecular_weight": 291.09,
+    "smiles": "N[C@H](Cc1ccc(I)cc1)C(=O)O",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.008808199622833805
+  },
+  {
+    "cid": 5288643,
+    "name": "Para-Iodo-D-Phenylalanine Hydroxamic Acid",
+    "formula": "C9H11IN2O2",
+    "molecular_weight": 306.1,
+    "smiles": "N[C@H](Cc1ccc(I)cc1)C(=O)NO",
+    "heavy_atoms": 14,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.008420756071929027
+  },
+  {
+    "cid": 44325903,
+    "name": "(2S,5R)-3-(4-Iodo-phenyl)-8-methyl-2-(3-methyl-isoxazol-5-yl)-8-aza-bicyclo[3.2.1]octane",
+    "formula": "C18H21IN2O",
+    "molecular_weight": 408.3,
+    "smiles": "Cc1cc([C@H]2C(c3ccc(I)cc3)C[C@H]3CCC2N3C)on1",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.008308035302285667
+  },
+  {
+    "cid": 46239015,
+    "name": "Sch-900776",
+    "formula": "C15H18BrN7",
+    "molecular_weight": 376.25,
+    "smiles": "Cn1cc(-c2cnn3c(N)c(Br)c([C@@H]4CCCNC4)nc23)cn1",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 17,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.008240788827348048
+  },
+  {
+    "cid": 23645384,
+    "name": "(2S)-2-amino-3-(4-iodophenyl)-1-(1,3-thiazolidin-3-yl)propan-1-one",
+    "formula": "C12H15IN2OS",
+    "molecular_weight": 362.23,
+    "smiles": "N[C@@H](Cc1ccc(I)cc1)C(=O)N1CCSC1",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.008085548082722847
+  },
+  {
+    "cid": 11987846,
+    "name": "(9aS)-4-bromo-9a-butyl-7-hydroxy-1,2,9,9a-tetrahydro-3H-fluoren-3-one",
+    "formula": "C17H19BrO2",
+    "molecular_weight": 335.2,
+    "smiles": "CCCC[C@@]12CCC(=O)C(Br)=C1c1ccc(O)cc1C2",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 3
+      }
+    ],
+    "screen_score": 0.007472263736815785
+  },
+  {
+    "cid": 6440124,
+    "name": "5-(2-Iodovinyl)-2'-deoxyuridine",
+    "formula": "C11H13IN2O5",
+    "molecular_weight": 380.14,
+    "smiles": "O=c1[nH]c(=O)n([C@H]2C[C@H](O)[C@@H](CO)O2)cc1/C=C/I",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.007392380553267621
+  },
+  {
+    "cid": 23645372,
+    "name": "(2S)-1-[(2S)-2-amino-3-(4-iodophenyl)propanoyl]pyrrolidine-2-carbonitrile",
+    "formula": "C14H16IN3O",
+    "molecular_weight": 369.2,
+    "smiles": "N#C[C@@H]1CCCN1C(=O)[C@@H](N)Cc1ccc(I)cc1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.007392380553267621
+  },
+  {
+    "cid": 6603801,
+    "name": "Benzeneethanamine, 4-iodo-2,5-dimethoxy-alpha-methyl-, (alphaS)-",
+    "formula": "C11H16INO2",
+    "molecular_weight": 321.15,
+    "smiles": "COc1cc(C[C@H](C)N)c(OC)cc1I",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.007117181316635328
+  },
+  {
+    "cid": 9840090,
+    "name": "Benzeneethanamine, 4-iodo-2,5-dimethoxy-alpha-methyl-, (alphaR)-",
+    "formula": "C11H16INO2",
+    "molecular_weight": 321.15,
+    "smiles": "COc1cc(C[C@@H](C)N)c(OC)cc1I",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.007117181316635328
+  },
+  {
+    "cid": 45487461,
+    "name": "(2R,3S)-2-[(4-Iodophenoxy)phenylmethyl]morpholine",
+    "formula": "C17H18INO2",
+    "molecular_weight": 395.23,
+    "smiles": "Ic1ccc(O[C@@H](c2ccccc2)[C@H]2CNCCO2)cc1",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.006578769794974858
+  },
+  {
+    "cid": 10661142,
+    "name": "5-[[(2S)-azetidin-2-yl]methoxy]-2-iodopyridine",
+    "formula": "C9H11IN2O",
+    "molecular_weight": 290.1,
+    "smiles": "Ic1ccc(OC[C@@H]2CCN2)cn1",
+    "heavy_atoms": 13,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 7
+      }
+    ],
+    "screen_score": 0.004779560994155297
+  },
+  {
+    "cid": 6035,
+    "name": "5-Bromo-2'-deoxyuridine",
+    "formula": "C9H11BrN2O5",
+    "molecular_weight": 307.1,
+    "smiles": "O=c1[nH]c(=O)n([C@H]2C[C@H](O)[C@@H](CO)O2)cc1Br",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.00474709812008043
+  },
+  {
+    "cid": 472175,
+    "name": "5-Bromo-2'-Deoxycytidine",
+    "formula": "C9H12BrN3O4",
+    "molecular_weight": 306.11,
+    "smiles": "Nc1nc(=O)n([C@H]2C[C@H](O)[C@@H](CO)O2)cc1Br",
+    "heavy_atoms": 17,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.00474709812008043
+  },
+  {
+    "cid": 24892823,
+    "name": "(2S)-N-(4-cyano-3-iodophenyl)-3-(4-cyanophenoxy)-2-hydroxy-2-methylpropanamide",
+    "formula": "C18H14IN3O3",
+    "molecular_weight": 447.2,
+    "smiles": "C[C@](O)(COc1ccc(C#N)cc1)C(=O)Nc1ccc(C#N)c(I)c1",
+    "heavy_atoms": 25,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.004600250776588734
+  },
+  {
+    "cid": 44590024,
+    "name": "(2R)-N-(4-cyano-3-iodophenyl)-3-(4-cyanophenoxy)-2-hydroxy-2-methylpropanamide",
+    "formula": "C18H14IN3O3",
+    "molecular_weight": 447.2,
+    "smiles": "C[C@@](O)(COc1ccc(C#N)cc1)C(=O)Nc1ccc(C#N)c(I)c1",
+    "heavy_atoms": 25,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.004600250776588734
+  },
+  {
+    "cid": 91494,
+    "name": "5-Bromouridine",
+    "formula": "C9H11BrN2O6",
+    "molecular_weight": 323.1,
+    "smiles": "O=c1[nH]c(=O)n([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)cc1Br",
+    "heavy_atoms": 18,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.004536800685095144
+  },
+  {
+    "cid": 67532,
+    "name": "3,5-dibromo-L-tyrosine",
+    "formula": "C9H9Br2NO3",
+    "molecular_weight": 338.98,
+    "smiles": "N[C@@H](Cc1cc(Br)c(O)c(Br)c1)C(=O)O",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 10,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      },
+      {
+        "element": "Br",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.004535125643038408
+  },
+  {
+    "cid": 44129612,
+    "name": "(2S)-2-(3-bromophenyl)-3-(5-chloro-2-hydroxyphenyl)-1,3-thiazolidin-4-one",
+    "formula": "C15H11BrClNO2S",
+    "molecular_weight": 384.7,
+    "smiles": "O=C1CS[C@@H](c2cccc(Br)c2)N1c1cc(Cl)ccc1O",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 2,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.004318265274199828
+  },
+  {
+    "cid": 11257123,
+    "name": "5-[[(2S)-azetidin-2-yl]methoxy]-2-iodo-3-pyridin-3-ylpyridine",
+    "formula": "C14H14IN3O",
+    "molecular_weight": 367.18,
+    "smiles": "Ic1ncc(OC[C@@H]2CCN2)cc1-c1cccnc1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 7
+      }
+    ],
+    "screen_score": 0.0034896134330558585
+  },
+  {
+    "cid": 126961735,
+    "name": "Gsk4027",
+    "formula": "C17H21BrN4O",
+    "molecular_weight": 377.3,
+    "smiles": "CN1C[C@H](Nc2cnn(C)c(=O)c2Br)C[C@H](c2ccccc2)C1",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 5,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.0034670764471219618
+  },
+  {
+    "cid": 688042,
+    "name": "4-Bromolevamisole",
+    "formula": "C11H11BrN2S",
+    "molecular_weight": 283.19,
+    "smiles": "Brc1ccc([C@H]2CN3CCSC3=N2)cc1",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 1,
+    "chiral_centers": [
+      {
+        "atom": 5,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.003227973982889567
+  },
+  {
+    "cid": 10171,
+    "name": "Bromolysergide",
+    "formula": "C20H24BrN3O",
+    "molecular_weight": 402.3,
+    "smiles": "CCN(CC)C(=O)[C@@H]1C=C2c3cccc4[nH]c(Br)c(c34)C[C@H]2N(C)C1",
+    "heavy_atoms": 25,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.003106021355885128
+  },
+  {
+    "cid": 3035942,
+    "name": "iodine-123-IBF",
+    "formula": "C16H21IN2O2",
+    "molecular_weight": 400.25,
+    "smiles": "CCN1CCC[C@H]1CNC(=O)c1cc(I)cc2c1OCC2",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 7
+      }
+    ],
+    "screen_score": 0.003099386017867167
+  },
+  {
+    "cid": 93036,
+    "name": "5-Bromo-dUMP",
+    "formula": "C9H12BrN2O8P",
+    "molecular_weight": 387.08,
+    "smiles": "O=c1[nH]c(=O)n([C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)cc1Br",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 4
+      }
+    ],
+    "screen_score": 0.003049871799075646
+  },
+  {
+    "cid": 3082754,
+    "name": "Iodopride",
+    "formula": "C15H21IN2O2",
+    "molecular_weight": 388.24,
+    "smiles": "CCN1CCC[C@@H]1CNC(=O)c1cc(I)ccc1OC",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 7
+      }
+    ],
+    "screen_score": 0.0027783851511181323
+  },
+  {
+    "cid": 9977544,
+    "name": "N-(1-Ethyl-pyrrolidin-2-ylmethyl)-5-iodo-2-methoxy-benzamide",
+    "formula": "C15H21IN2O2",
+    "molecular_weight": 388.24,
+    "smiles": "CCN1CCC[C@H]1CNC(=O)c1cc(I)ccc1OC",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 7
+      }
+    ],
+    "screen_score": 0.0027783851511181323
+  },
+  {
+    "cid": 10194508,
+    "name": "(1R,2R)-N-(cyanomethyl)-2-{[(4-iodophenyl)sulfanyl]methyl}cyclohexane-1-carboxamide",
+    "formula": "C16H19IN2OS",
+    "molecular_weight": 414.3,
+    "smiles": "N#CCNC(=O)[C@@H]1CCCC[C@H]1CSc1ccc(I)cc1",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 7
+      }
+    ],
+    "screen_score": 0.002699696855717501
+  },
+  {
+    "cid": 107995,
+    "name": "N-(((2S)-1-Ethyl-2-pyrrolidinyl)methyl)-2-hydroxy-3-iodo-6-methoxybenzamide",
+    "formula": "C15H21IN2O3",
+    "molecular_weight": 404.24,
+    "smiles": "CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(I)c1O",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 7
+      }
+    ],
+    "screen_score": 0.002662201066054758
+  },
+  {
+    "cid": 11133125,
+    "name": "Iolopride I-123",
+    "formula": "C15H21IN2O3",
+    "molecular_weight": 400.24,
+    "smiles": "CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc([123I])c1O",
+    "heavy_atoms": 21,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 6,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 7
+      }
+    ],
+    "screen_score": 0.002662201066054758
+  },
+  {
+    "cid": 167842,
+    "name": "5-Bromowillardiine",
+    "formula": "C7H8BrN3O4",
+    "molecular_weight": 278.06,
+    "smiles": "N[C@@H](Cn1cc(Br)c(=O)[nH]c1=O)C(=O)O",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 9,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.0020385661206951057
+  },
+  {
+    "cid": 5496910,
+    "name": "N-((1R)-1-(4-bromophenyl)ethyl)-5-fluoro-2-hydroxybenzamide",
+    "formula": "C15H13BrFNO2",
+    "molecular_weight": 338.17,
+    "smiles": "C[C@@H](NC(=O)c1cc(F)ccc1O)c1ccc(Br)cc1",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.001816367769479739
+  },
+  {
+    "cid": 46917793,
+    "name": "(R)-N-(4-(3-aminopiperidin-1-yl)-5-bromo-1H-pyrrolo[2,3-b]pyridin-3-yl)cyclopropanecarboxamide",
+    "formula": "C16H20BrN5O",
+    "molecular_weight": 378.27,
+    "smiles": "N[C@@H]1CCCN(c2c(Br)cnc3[nH]cc(NC(=O)C4CC4)c23)C1",
+    "heavy_atoms": 23,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.0017216992107621
+  },
+  {
+    "cid": 16960,
+    "name": "Dexbrompheniramine",
+    "formula": "C16H19BrN2",
+    "molecular_weight": 319.24,
+    "smiles": "CN(C)CC[C@@H](c1ccc(Br)cc1)c1ccccn1",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 5,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 5
+      }
+    ],
+    "screen_score": 0.0015005203882524228
+  },
+  {
+    "cid": 446727,
+    "name": "Brivudine",
+    "formula": "C11H13BrN2O5",
+    "molecular_weight": 333.13,
+    "smiles": "O=c1[nH]c(=O)n([C@H]2C[C@H](O)[C@@H](CO)O2)cc1/C=C/Br",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      },
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.0009284215011163517
+  },
+  {
+    "cid": 5466678,
+    "name": "5-[(E)-2-bromoethenyl]-1-[(1R,3R,4R)-3-hydroxy-4-(hydroxymethyl)cyclopentyl]pyrimidine-2,4-dione",
+    "formula": "C12H15BrN2O4",
+    "molecular_weight": 331.16,
+    "smiles": "O=c1[nH]c(=O)n([C@@H]2C[C@H](CO)[C@H](O)C2)cc1/C=C/Br",
+    "heavy_atoms": 19,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      },
+      {
+        "atom": 4,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.0009284215011163517
+  },
+  {
+    "cid": 12626561,
+    "name": "R-(-)-2,5-Dimethoxy-4-bromoamphetamine",
+    "formula": "C11H16BrNO2",
+    "molecular_weight": 274.15,
+    "smiles": "COc1cc(C[C@@H](C)N)c(OC)cc1Br",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.0008938587663465231
+  },
+  {
+    "cid": 23983765,
+    "name": "Brolamfetamine, (S)-",
+    "formula": "C11H16BrNO2",
+    "molecular_weight": 274.15,
+    "smiles": "COc1cc(C[C@H](C)N)c(OC)cc1Br",
+    "heavy_atoms": 15,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.0008938587663465231
+  },
+  {
+    "cid": 667554,
+    "name": "5-[(E)-2-bromovinyl]-1-[(2S,3R,4R,5S)-3,4-dihydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl]pyrimidine-2,4-dione",
+    "formula": "C11H13BrN2O6",
+    "molecular_weight": 349.13,
+    "smiles": "O=c1[nH]c(=O)n([C@H]2O[C@@H](CO)[C@H](O)[C@H]2O)cc1/C=C/Br",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "S"
+      },
+      {
+        "atom": 9,
+        "cip": "R"
+      },
+      {
+        "atom": 10,
+        "cip": "R"
+      },
+      {
+        "atom": 11,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.0008889363530333024
+  },
+  {
+    "cid": 5282192,
+    "name": "Sorivudine",
+    "formula": "C11H13BrN2O6",
+    "molecular_weight": 349.13,
+    "smiles": "O=c1[nH]c(=O)n([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O)cc1/C=C/Br",
+    "heavy_atoms": 20,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 8,
+        "cip": "R"
+      },
+      {
+        "atom": 9,
+        "cip": "S"
+      },
+      {
+        "atom": 10,
+        "cip": "S"
+      },
+      {
+        "atom": 11,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.0008889363530333024
+  },
+  {
+    "cid": 50986088,
+    "name": "(2S)-2-azaniumyl-3-[4-(4-hydroxy-3,5-diiodophenoxy)phenyl]propanoate",
+    "formula": "C15H13I2NO4",
+    "molecular_weight": 525.08,
+    "smiles": "[NH3+][C@@H](Cc1ccc(Oc2cc(I)c(O)c(I)c2)cc1)C(=O)[O-]",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 10
+      },
+      {
+        "element": "I",
+        "distance": 10
+      }
+    ],
+    "screen_score": 0.0007047874586810629
+  },
+  {
+    "cid": 10993014,
+    "name": "AS-8112",
+    "formula": "C17H27BrN4O2",
+    "molecular_weight": 399.3,
+    "smiles": "CCN1CCN(C)C[C@@H](NC(=O)c2cc(Br)c(NC)cc2OC)C1",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 7,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 6
+      }
+    ],
+    "screen_score": 0.0006093891479768827
+  },
+  {
+    "cid": 59423635,
+    "name": "(2-Chloro-5-iodophenyl)(4-(((3S)-tetrahydro-3-furanyl)oxy)phenyl)methanone",
+    "formula": "C17H14ClIO3",
+    "molecular_weight": 428.6,
+    "smiles": "O=C(c1ccc(O[C@H]2CCOC2)cc1)c1cc(I)ccc1Cl",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 4,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 10
+      }
+    ],
+    "screen_score": 0.00037751621724857205
+  },
+  {
+    "cid": 24764442,
+    "name": "4-[(4-bromo-2-{[(3R,5S)-3,5-dimethylpiperidin-1-yl]carbonyl}phenyl)amino]-4-oxobutanoic acid",
+    "formula": "C18H23BrN2O4",
+    "molecular_weight": 411.3,
+    "smiles": "C[C@@H]1C[C@H](C)CN(C(=O)c2cc(Br)ccc2NC(=O)CCC(=O)O)C1",
+    "heavy_atoms": 25,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 7
+      }
+    ],
+    "screen_score": 0.0002869037625288382
+  },
+  {
+    "cid": 44513219,
+    "name": "5-[(3aR,6aS)-2,3,3a,4,6,6a-hexahydro-1H-pyrrolo[3,4-c]pyrrol-5-yl]-N-(3-iodophenyl)pyridine-3-carboxamide",
+    "formula": "C18H19IN4O",
+    "molecular_weight": 434.3,
+    "smiles": "O=C(Nc1cccc(I)c1)c1cncc(N2C[C@H]3CNC[C@H]3C2)c1",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 3,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "R"
+      },
+      {
+        "atom": 5,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "I",
+        "distance": 11
+      }
+    ],
+    "screen_score": 0.00020126578132238885
+  },
+  {
+    "cid": 11210478,
+    "name": "WP-1066",
+    "formula": "C17H14BrN3O",
+    "molecular_weight": 356.2,
+    "smiles": "C[C@H](NC(=O)/C(C#N)=C/c1cccc(Br)n1)c1ccccc1",
+    "heavy_atoms": 22,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 8
+      }
+    ],
+    "screen_score": 0.00018023048035196057
+  },
+  {
+    "cid": 400772,
+    "name": "Halofuginone, (-)-",
+    "formula": "C16H17BrClN3O3",
+    "molecular_weight": 414.7,
+    "smiles": "O=C(C[C@@H]1NCCC[C@H]1O)Cn1cnc2cc(Br)c(Cl)cc2c1=O",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "R"
+      },
+      {
+        "atom": 3,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 10
+      }
+    ],
+    "screen_score": 4.291579979803271e-05
+  },
+  {
+    "cid": 456390,
+    "name": "Halofuginone",
+    "formula": "C16H17BrClN3O3",
+    "molecular_weight": 414.7,
+    "smiles": "O=C(C[C@H]1NCCC[C@@H]1O)Cn1cnc2cc(Br)c(Cl)cc2c1=O",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 4,
+    "chiral_centers": [
+      {
+        "atom": 2,
+        "cip": "S"
+      },
+      {
+        "atom": 3,
+        "cip": "R"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 10
+      }
+    ],
+    "screen_score": 4.291579979803271e-05
+  },
+  {
+    "cid": 44554865,
+    "name": "Mol-4239",
+    "formula": "C19H16BrN3O",
+    "molecular_weight": 382.3,
+    "smiles": "C[C@H](NC(=O)/C(C#N)=C/C=C/c1cccc(Br)n1)c1ccccc1",
+    "heavy_atoms": 24,
+    "rotatable_bonds": 5,
+    "chiral_centers": [
+      {
+        "atom": 1,
+        "cip": "S"
+      }
+    ],
+    "target_atoms": [
+      {
+        "element": "Br",
+        "distance": 10
+      }
+    ],
+    "screen_score": 3.6602703379866504e-05
+  }
+]

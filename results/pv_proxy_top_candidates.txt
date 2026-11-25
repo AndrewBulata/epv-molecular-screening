@@ -1,0 +1,151 @@
+PV PROXY SCAN — RELATIVE PRIORITISATION, NOT DIRAC ENERGIES
+Valid QMugs: 2668 | valid unique PubChem: 117
+Anchor: CHEMBL1723373, E_PV=1.753952e-18 Eh, raw=1.69687
+
+================================================================================================================
+TOP 20 QMUGS
+================================================================================================================
+ 1. CHEMBL1586235      rel=    1.08  rough|Epv|=1.90e-18 Eh  rough R/S=0.025 Hz
+    C15H15BrN2O2S | R | Br@d1 | rotor factor=1.000 | symmetry=1.000
+    O=C1c2sc3nc4n(c(=O)c3c2CC[C@H]1Br)CCCCC4
+ 2. CHEMBL1723373      rel=    1.00  rough|Epv|=1.75e-18 Eh  rough R/S=0.0231 Hz
+    C4H5BrN2O | R | Br@d1 | rotor factor=1.000 | symmetry=1.000
+    CC1=NNC(=O)[C@@H]1Br
+ 3. CHEMBL1516515      rel=    0.90  rough|Epv|=1.57e-18 Eh  rough R/S=0.0207 Hz
+    C13H12BrN3O | R | Br@d1 | rotor factor=0.852 | symmetry=1.000
+    Cc1nn(-c2ccccn2)c2c1C(=O)[C@H](Br)CC2
+ 4. CHEMBL1288333      rel=    0.81  rough|Epv|=1.41e-18 Eh  rough R/S=0.0186 Hz
+    C7H8BrO3P | S | Br@d1 | rotor factor=0.726 | symmetry=1.000
+    O=P(O)(O)[C@@H](Br)c1ccccc1
+ 5. CHEMBL371651       rel=    0.79  rough|Epv|=1.38e-18 Eh  rough R/S=0.0182 Hz
+    C13H10BrNO4 | R | Br@d1 | rotor factor=0.726 | symmetry=1.000
+    COc1cc2ccnc3c2c(c1OC)[C@@H](Br)OC3=O
+ 6. CHEMBL125652       rel=    0.76  rough|Epv|=1.34e-18 Eh  rough R/S=0.0176 Hz
+    C11H9BrFNO3 | S | Br@d1 | rotor factor=0.726 | symmetry=1.000
+    Cc1ccc(C(=O)O)cc1N1C[C@](F)(Br)C1=O
+ 7. CHEMBL408565       rel=    0.72  rough|Epv|=1.26e-18 Eh  rough R/S=0.0166 Hz
+    C17H15BrN2O | S | Br@d1 | rotor factor=0.852 | symmetry=1.000
+    O=C1Nc2ccccc2/C1=C/c1cc2c([nH]1)CC[C@H](Br)C2
+ 8. CHEMBL240775       rel=    0.72  rough|Epv|=1.26e-18 Eh  rough R/S=0.0166 Hz
+    C8H9BrNO5P | R | Br@d1 | rotor factor=0.527 | symmetry=1.000
+    O=C(O)[C@](Br)(Cc1cccnc1)P(=O)(O)O
+ 9. CHEMBL1085832      rel=    0.72  rough|Epv|=1.26e-18 Eh  rough R/S=0.0166 Hz
+    C8H6BrN | R | Br@d1 | rotor factor=0.852 | symmetry=1.000
+    N#C[C@H](Br)c1ccccc1
+10. CHEMBL338512       rel=    0.66  rough|Epv|=1.16e-18 Eh  rough R/S=0.0152 Hz
+    C11H10BrNO3 | S | Br@d1 | rotor factor=0.726 | symmetry=1.000
+    Cc1ccc(C(=O)O)cc1N1C[C@H](Br)C1=O
+11. CHEMBL271581       rel=    0.61  rough|Epv|=1.06e-18 Eh  rough R/S=0.014 Hz
+    C16H25BrN2O | S | Br@d1 | rotor factor=0.619 | symmetry=1.000
+    Cc1cc(C(C)(C)NC(=O)[C@@H](Br)C(C)(C)C)cc(C)n1
+12. CHEMBL3116094      rel=    0.51  rough|Epv|=9.00e-19 Eh  rough R/S=0.0118 Hz
+    C15H15BrO6 | S | Br@d1 | rotor factor=0.527 | symmetry=1.000
+    CC(C)(O)[C@@H](Br)COc1c2c(cc3oc(=O)ccc13)OCO2
+13. CHEMBL201815       rel=    0.49  rough|Epv|=8.68e-19 Eh  rough R/S=0.0114 Hz
+    C20H18BrN3O4S | S | Br@d1 | rotor factor=0.527 | symmetry=1.000
+    C[C@H](Br)CCn1c(=O)c(C2=NS(=O)(=O)c3ccccc3N2)c(O)c2ccccc21
+14. CHEMBL203922       rel=    0.47  rough|Epv|=8.33e-19 Eh  rough R/S=0.011 Hz
+    C18H20BrN5 | S | Br@d1 | rotor factor=0.527 | symmetry=1.000
+    Br[C@H](Cn1ncc2c(N3CCCCC3)ncnc21)c1ccccc1
+15. CHEMBL382012       rel=    0.47  rough|Epv|=8.27e-19 Eh  rough R/S=0.0109 Hz
+    C17H18BrN5 | S | Br@d1 | rotor factor=0.527 | symmetry=1.000
+    Br[C@H](Cn1ncc2c(N3CCCC3)ncnc21)c1ccccc1
+16. CHEMBL1812852      rel=    0.45  rough|Epv|=7.82e-19 Eh  rough R/S=0.0103 Hz
+    C16H13BrO2 | R | Br@d1 | rotor factor=0.449 | symmetry=1.000
+    O=C(Cc1ccccc1)C(=O)[C@H](Br)c1ccccc1
+17. CHEMBL1540407      rel=    0.41  rough|Epv|=7.25e-19 Eh  rough R/S=0.00955 Hz
+    C11H16BrN3O4 | S | Br@d1 | rotor factor=0.449 | symmetry=1.000
+    CCOc1cnc(C(=O)NNC(=O)[C@@H](Br)C(C)C)o1
+18. CHEMBL507594       rel=    0.41  rough|Epv|=7.22e-19 Eh  rough R/S=0.0095 Hz
+    C18H20BrN5S | R | Br@d1 | rotor factor=0.449 | symmetry=1.000
+    CSc1nc(N2CCCC2)c2cnn(C[C@H](Br)c3ccccc3)c2n1
+19. CHEMBL406504       rel=    0.38  rough|Epv|=6.74e-19 Eh  rough R/S=0.00886 Hz
+    C16H18BrN5 | S | Br@d1 | rotor factor=0.449 | symmetry=1.000
+    CC(C)Nc1ncnc2c1cnn2C[C@@H](Br)c1ccccc1
+20. CHEMBL455164       rel=    0.37  rough|Epv|=6.56e-19 Eh  rough R/S=0.00863 Hz
+    C19H22BrN5S | R | Br@d1 | rotor factor=0.449 | symmetry=1.000
+    CSc1nc(N2CCCCC2)c2cnn(C[C@H](Br)c3ccccc3)c2n1
+
+================================================================================================================
+TOP 20 PUBCHEM
+================================================================================================================
+ 1. CID5288605         rel=    7.73  rough|Epv|=1.36e-17 Eh  rough R/S=0.178 Hz
+    (5S)-5-Iododihydro-2,4(1H,3H)-pyrimidinedione
+    C4H5IN2O2 | S | I@d1 | rotor factor=1.000 | symmetry=1.000
+    O=C1NC[C@H](I)C(=O)N1
+ 2. CID12475337        rel=    4.76  rough|Epv|=8.34e-18 Eh  rough R/S=0.11 Hz
+    2-Iodobutane, (2S)-
+    C4H9I | S | I@d1 | rotor factor=0.852 | symmetry=1.000
+    CC[C@H](C)I
+ 3. CID12280563        rel=    2.16  rough|Epv|=3.80e-18 Eh  rough R/S=0.05 Hz
+    2-Iodooctane, (+)-
+    C8H17I | S | I@d1 | rotor factor=0.449 | symmetry=1.000
+    CCCCCC[C@H](C)I
+ 4. CID9800976         rel=    2.03  rough|Epv|=3.56e-18 Eh  rough R/S=0.0468 Hz
+    (2R)-N-[4-Cyano-3-(trifluoromethyl)phenyl]-2-hydroxy-3-iodo-2-methylpropanamide
+    C12H10F3IN2O2 | R | I@d2 | rotor factor=0.619 | symmetry=1.000
+    C[C@](O)(CI)C(=O)Nc1ccc(C#N)c(C(F)(F)F)c1
+ 5. CID11742733        rel=    1.48  rough|Epv|=2.60e-18 Eh  rough R/S=0.0342 Hz
+    (R)-N-[3-(Trifluoromethyl)-4-nitrophenyl]-3-iodo-2-hydroxy-2-methylpropanamide
+    C11H10F3IN2O4 | R | I@d2 | rotor factor=0.527 | symmetry=1.000
+    C[C@](O)(CI)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1
+ 6. CID641250          rel=    0.93  rough|Epv|=1.63e-18 Eh  rough R/S=0.0215 Hz
+    (2S)-2,3-dibromopropanal
+    C3H4Br2O | S | Br@d1, Br@d2 | rotor factor=0.726 | symmetry=1.000
+    O=C[C@H](Br)CBr
+ 7. CID445258          rel=    0.90  rough|Epv|=1.58e-18 Eh  rough R/S=0.0208 Hz
+    (R)-halothane
+    C2HBrClF3 | R | Cl@d1, Br@d1 | rotor factor=1.000 | symmetry=1.000
+    FC(F)(F)[C@H](Cl)Br
+ 8. CID642201          rel=    0.87  rough|Epv|=1.52e-18 Eh  rough R/S=0.02 Hz
+    (2S)-1,2-dibromopropane
+    C3H6Br2 | S | Br@d1, Br@d2 | rotor factor=0.852 | symmetry=1.000
+    C[C@H](Br)CBr
+ 9. CID57518772        rel=    0.85  rough|Epv|=1.49e-18 Eh  rough R/S=0.0196 Hz
+    Bromochlorofluoromethane, (+)-
+    CHBrClF | S | Cl@d1, Br@d1 | rotor factor=1.000 | symmetry=1.000
+    F[C@@H](Cl)Br
+10. CID642232          rel=    0.83  rough|Epv|=1.46e-18 Eh  rough R/S=0.0193 Hz
+    2-Bromopropionic acid, (S)-
+    C3H5BrO2 | S | Br@d1 | rotor factor=0.852 | symmetry=1.000
+    C[C@H](Br)C(=O)O
+11. CID6992152         rel=    0.83  rough|Epv|=1.46e-18 Eh  rough R/S=0.0193 Hz
+    (2R)-2-Bromopropanoic acid
+    C3H5BrO2 | R | Br@d1 | rotor factor=0.852 | symmetry=1.000
+    C[C@@H](Br)C(=O)O
+12. CID638138          rel=    0.80  rough|Epv|=1.41e-18 Eh  rough R/S=0.0185 Hz
+    methyl (2S)-2-bromopropanoate
+    C4H7BrO2 | S | Br@d1 | rotor factor=0.852 | symmetry=1.000
+    COC(=O)[C@H](C)Br
+13. CID1715216         rel=    0.80  rough|Epv|=1.41e-18 Eh  rough R/S=0.0185 Hz
+    methyl (2R)-2-bromopropanoate
+    C4H7BrO2 | R | Br@d1 | rotor factor=0.852 | symmetry=1.000
+    COC(=O)[C@@H](C)Br
+14. CID641235          rel=    0.79  rough|Epv|=1.38e-18 Eh  rough R/S=0.0182 Hz
+    (2S)-2,3-dibromopropan-1-ol
+    C3H6Br2O | S | Br@d1, Br@d2 | rotor factor=0.726 | symmetry=1.000
+    OC[C@H](Br)CBr
+15. CID12697059        rel=    0.75  rough|Epv|=1.32e-18 Eh  rough R/S=0.0174 Hz
+    (R)-2-Bromo-3,3-dimethylbutanoic Acid
+    C6H11BrO2 | R | Br@d1 | rotor factor=0.852 | symmetry=1.000
+    CC(C)(C)[C@@H](Br)C(=O)O
+16. CID638118          rel=    0.75  rough|Epv|=1.32e-18 Eh  rough R/S=0.0174 Hz
+    (3R)-3-bromobutan-2-one
+    C4H7BrO | R | Br@d1 | rotor factor=0.852 | symmetry=1.000
+    CC(=O)[C@@H](C)Br
+17. CID13776211        rel=    0.75  rough|Epv|=1.32e-18 Eh  rough R/S=0.0173 Hz
+    (2R)-2-bromo-3-hydroxypropanoic acid
+    C3H5BrO3 | R | Br@d1 | rotor factor=0.726 | symmetry=1.000
+    O=C(O)[C@H](Br)CO
+18. CID13776210        rel=    0.75  rough|Epv|=1.32e-18 Eh  rough R/S=0.0173 Hz
+    (2S)-2-Bromo-3-hydroxypropanoic acid
+    C3H5BrO3 | S | Br@d1 | rotor factor=0.726 | symmetry=1.000
+    O=C(O)[C@@H](Br)CO
+19. CID12882378        rel=    0.73  rough|Epv|=1.29e-18 Eh  rough R/S=0.017 Hz
+    tert-butyl (2S)-2-bromopropanoate
+    C7H13BrO2 | S | Br@d1 | rotor factor=0.852 | symmetry=1.000
+    C[C@H](Br)C(=O)OC(C)(C)C
+20. CID12882377        rel=    0.73  rough|Epv|=1.29e-18 Eh  rough R/S=0.017 Hz
+    tert-Butyl (2R)-2-bromopropanoate
+    C7H13BrO2 | R | Br@d1 | rotor factor=0.852 | symmetry=1.000
+    C[C@@H](Br)C(=O)OC(C)(C)C

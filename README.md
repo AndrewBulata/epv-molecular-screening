@@ -48,6 +48,33 @@ The script fits a ridge regression correction to the structural heuristic in log
 
 The two R/S pairs contribute **two distinct connectivities**. Each pair is grouped and its log magnitudes are averaged. Leave-one-connectivity-out evaluation gives 0.584 log10(Eh) MAE for both ridge and the fold-calibrated heuristic. Each fold has one training structure and therefore fits only an intercept. The result does not establish a predictive advantage for ML. The labels also mix basis sets and geometry protocols. The model targets magnitude and has no iodine reference.
 
+### Literature-augmented evaluation
+
+```sh
+python work/epv_ml.py --literature --smi-file results/shortlist.smi
+```
+
+The [curated literature dataset](results/epv_literature.json) records the original observable, units, method, figure or table and normalized energy in hartree. The flag adds four iodinated halomethanes from [Berger and Stuber, Table 1, B3LYP column](https://files01.core.ac.uk/download/pdf/207177676.pdf#page=11) to the two local connectivities. Their single-enantiomer potentials at the CCSD(T) equilibrium geometries are converted from wavenumbers using 1 Eh/(hc) = 219474.6313632 cm⁻¹. The published CHFClBr result is kept for method comparison because the local series already includes this connectivity.
+
+The external test keeps the three para-halo-(R)-1-phenylethan-1-amines together, outside training. Their values are approximate readings of the red 4c-B3LYP/dyall.cv2z markers in [Aucar et al., Figure 1](https://arxiv.org/pdf/2603.01885v1#page=11). The plotted quantity is the enantiomer gap, so its magnitude is halved to match the single-enantiomer training target, following Eq. 5. The fluoro analogue is outside the Cl/Br/I screening scope. The [Kuroda et al. CCSD Z-vector totals](https://arxiv.org/html/2211.12010v2#S4.SS2) compare computational protocols on overlapping connectivities. They are excluded from fitting and external scoring, as are the excited-state energies and vibrational shifts.
+
+| Split | Ridge MAE, log10 units | Calibrated heuristic MAE, log10 units |
+| --- | ---: | ---: |
+| Leave one connectivity out (6 training-pool structures, including close analogues) | 0.499 | 0.398 |
+| Held-out para-haloaryl series (3 approximate references) | 1.359 | 1.163 |
+
+For the held-out para-iodo compound, the approximate literature magnitude is 1.97e−18 Eh. Ridge gives 2.13e−19 Eh and the calibrated heuristic gives 3.35e−19 Eh. This small, mixed-protocol benchmark does not support replacing the heuristic with ridge. Other reported families, such as [polyhalocubanes](https://doi.org/10.1021/ja060781p), require a stereochemical representation beyond this one-center model.
+
+To score the bundled candidate lists in one run:
+
+```sh
+python work/epv_ml.py --literature --library-output /tmp/epv_library_predictions.json
+```
+
+The [complete ranked export](results/epv_library_predictions.json) covers 2,735 unique stereostructures from the bundled QMugs/ChEMBL and PubChem candidate lists, including 59 iodine-containing structures. It includes both model estimates, source IDs, and flags for training overlap and descriptor ranges. It deduplicates by canonical isomeric SMILES and retains R and S as separate structures. Both estimates use SMILES-derived descriptors across all sources. The original screening report also used GFN2 descriptors where available in QMugs.
+
+The five highest-ranked candidates are identical in both models. Of the 2,735 structures, 2,732 fall outside the training range for at least one descriptor. Use the published estimates for prioritization.
+
 ## Reproduce the DIRAC benchmark
 
 Install [DIRAC](https://www.diracprogram.org/doku.php?id=start) separately and set `DIRAC_ROOT` to the directory containing `pam` and `dirac.x`. The original R job was serial. The S job was launched with eight OpenMP threads. The following commands use the archived inputs unchanged and write each job to a fresh working directory.

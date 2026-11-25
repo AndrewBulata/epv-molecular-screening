@@ -1,0 +1,30 @@
+[
+  {
+    "id": "CHEMBL1723373_R",
+    "smiles": "CC1=NNC(=O)[C@@H]1Br",
+    "epv_eh": 1.753952279838e-18,
+    "basis": "dyall.v2z",
+    "output": "results/CHEMBL1723373_R_pvc.txt"
+  },
+  {
+    "id": "CHEMBL1723373_S",
+    "smiles": "CC1=NNC(=O)[C@H]1Br",
+    "epv_eh": -1.75400897862e-18,
+    "basis": "dyall.v2z",
+    "output": "results/CHEMBL1723373_S_pvc.txt"
+  },
+  {
+    "id": "CHFClBr_R",
+    "smiles": "F[C@H](Cl)Br",
+    "epv_eh": 3.873552877906e-19,
+    "basis": "cc-pVDZ",
+    "output": "dirac/CHFClBr/R_mirror/result.txt"
+  },
+  {
+    "id": "CHFClBr_S",
+    "smiles": "F[C@@H](Cl)Br",
+    "epv_eh": -3.873610964673e-19,
+    "basis": "cc-pVDZ",
+    "output": "dirac/CHFClBr/S_optimized/result.txt"
+  }
+]

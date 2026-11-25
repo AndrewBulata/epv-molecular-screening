@@ -16,6 +16,12 @@ The two EPV values reverse sign and agree in magnitude to about 0.0032%. Their d
 - [Exact inputs and XYZ geometries](dirac/CHEMBL1723373)
 - Output excerpts for [R](results/CHEMBL1723373_R_pvc.txt) and [S](results/CHEMBL1723373_S_pvc.txt)
 
+### Other completed calculations
+
+Bromochlorofluoromethane (CHFClBr) was also evaluated with 4c Dirac–Coulomb/B3LYP and cc-pVDZ at an ORCA B3LYP-D4/def2-TZVP geometry and its exact mirror. The [optimized S geometry](dirac/CHFClBr/S_optimized) gives `−3.873610964673e−19 Eh`; the [mirrored R geometry](dirac/CHFClBr/R_mirror) gives `+3.873552877906e−19 Eh`. The original local directory labels were reversed relative to the CIP assignments obtained from the coordinates. The archived inputs preserve the original job contents.
+
+The wider Dirac archive also contains displaced CHFClBr geometries, a CH3PbFClBr mirror pair (approximately ±1.411e−15 Eh), and a Pt alaninate calculation (+1.485e−15 Eh for the archived geometry). The displaced geometries share a connectivity with the CHFClBr benchmark. The Pb and Pt compounds lie outside the metal-free model domain.
+
 ## Reproduce the shortlist
 
 Use Python 3.10+ from the repository root.
@@ -30,6 +36,17 @@ The scanner reads the three frozen JSON candidate lists in `outputs/` and writes
 The screen requires one RDKit-perceived tetrahedral stereocentre with a specified carbon configuration and includes unassigned centres in that count. For each Cl/Br/I atom it computes `(Z/35)^5 × exp(-0.80 × max(0, d−1))`, where `d` is the bond distance to the stereocentre. The summed terms are modified by heuristic weights for repeated element/distance groups, nearby heteroatoms and polar motifs, rotatable bonds, and molecular size. For QMugs only, the score includes additional factors from the archived GFN2 dipole, polarizability and HOMO–LUMO gap. PubChem uses a neutral multiplier.
 
 This ranking uses SMILES and stored descriptors. Its repeated-group penalty is a heuristic and cannot identify physical cancellation. The electronic weighting differs between sources. The report's hartree and Hz columns are one-point rescalings from CHEMBL1723373 R and have no validated predictive accuracy. The score favours I by construction. The leading PubChem candidate is [CID5288605](https://pubchem.ncbi.nlm.nih.gov/compound/5288605), with a score of 7.73 relative to the Br reference. Its DIRAC EPV remains unverified. [Candidate structures as SMILES](results/shortlist.smi) and an [earlier PubChem 3D visualization set](results/pubchem_pv_top10.sdf) are included. The earlier SDF contains model geometries from a different shortlist.
+
+## Experimental ML baseline
+
+```sh
+python work/epv_ml.py --smi-file results/shortlist.smi
+python work/epv_ml.py --smiles 'O=C1NC[C@H](I)C(=O)N1'
+```
+
+The script fits a ridge regression correction to the structural heuristic in log10(|EPV|/Eh), using its nuclear, polar, rigidity and compactness terms. It reads the [archived reference labels](results/epv_ml_labels.json). Training and inference use RDKit and NumPy. Both run without DIRAC or conformer generation. The correction is bounded to the observed descriptor ranges. The heuristic still extrapolates outside those ranges, and the script flags unseen halogens.
+
+The two R/S pairs contribute **two distinct connectivities**. Each pair is grouped and its log magnitudes are averaged. Leave-one-connectivity-out evaluation gives 0.584 log10(Eh) MAE for both ridge and the fold-calibrated heuristic. Each fold has one training structure and therefore fits only an intercept. The result does not establish a predictive advantage for ML. The labels also mix basis sets and geometry protocols. The model targets magnitude and has no iodine reference.
 
 ## Reproduce the DIRAC benchmark
 
